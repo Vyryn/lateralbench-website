@@ -268,7 +268,7 @@
   "stderr": 0.046,
   "input_tokens": 147052,
   "output_tokens": 10078,
-  "nominal_price": 0.0613,
+  "nominal_price": "",
   "input_rate": 0,
   "output_rate": 0,
   "errors": 1
@@ -279,7 +279,7 @@
   "stderr": 0.044,
   "input_tokens": 22959,
   "output_tokens": 15531,
-  "nominal_price": 0.0613,
+  "nominal_price": "",
   "input_rate": 0,
   "output_rate": 0
   },
