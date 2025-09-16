@@ -1,0 +1,296 @@
+[
+  {
+    "name": "GPT-5-nano",
+    "accuracy": 0.302,
+    "stderr": 0.044,
+    "input_tokens": 116571,
+    "output_tokens": 681360,
+    "nominal_price": 0.293,
+    "input_rate": 0.05,
+    "output_rate": 0.4
+  },
+  {
+    "name": "GPT-5-mini",
+    "accuracy": 0.467,
+    "stderr": 0.047,
+    "input_tokens": 209035,
+    "output_tokens": 351111,
+    "nominal_price": 0.738,
+    "input_rate": 0.25,
+    "output_rate": 2
+  },
+  {
+    "name": "GPT-5",
+    "raw_accuracy": 0.801,
+    "accuracy": 0.793,
+    "stderr": 0.04,
+    "input_tokens": 39299,
+    "output_tokens": 231127,
+    "nominal_price": 6.135,
+    "input_rate": 1.25,
+    "output_rate": 10,
+    "errors": 1
+  },
+  {
+    "name": "Claude Sonnet 4 (S)",
+    "accuracy": 0.42,
+    "stderr": 0.05,
+    "input_tokens": 22927,
+    "output_tokens": 24532,
+    "nominal_price": 0.437,
+    "input_rate": 3,
+    "output_rate": 10
+  },
+  {
+    "name": "Grok 4 (R)",
+    "raw_accuracy": 0.745,
+    "accuracy": 0.715,
+    "stderr": 0.041,
+    "input_tokens": 84653,
+    "output_tokens": 711404,
+    "nominal_price": 12.556,
+    "input_rate": 3,
+    "output_rate": 15,
+    "errors": 4
+  },
+  {
+    "name": "GPT-OSS-20b",
+    "raw_accuracy": 0.25,
+    "accuracy": 0.245,
+    "stderr": 0.044,
+    "input_tokens": 111581,
+    "output_tokens": 542786,
+    "nominal_price": 0.396,
+    "input_rate": 0.04,
+    "output_rate": 0.15,
+    "errors": 2
+  },
+  {
+    "name": "Gemini 2.5 Pro",
+    "accuracy": 0.63,
+    "stderr": 0.049,
+    "input_tokens": 21839,
+    "output_tokens": 544831,
+    "nominal_price": 2.8,
+    "input_rate": 1.25,
+    "output_rate": 10
+  },
+  {
+    "name": "GPT OSS 120b",
+    "accuracy": 0.368,
+    "stderr": 0.048,
+    "input_tokens": 65644,
+    "output_tokens": 192833,
+    "nominal_price": 0.0851,
+    "input_rate": 0.072,
+    "output_rate": 0.28
+  },
+  {
+    "name": "Kimi K2 0905",
+    "accuracy": 0.412,
+    "stderr": 0.048,
+    "input_tokens": 45591,
+    "output_tokens": 8276,
+    "nominal_price": 0.0654,
+    "input_rate": 0.296,
+    "output_rate": 1.185
+  },
+  {
+    "name": "Kimi K2 0711",
+    "accuracy": 0.448,
+    "stderr": 0.049,
+    "input_tokens": 27793,
+    "output_tokens": 18340,
+    "nominal_price": 0.0613,
+    "input_rate": 0.14,
+    "output_rate": 2.49
+  },
+  {
+    "name": "DeepSeek v3.1 (S)",
+    "accuracy": 0.463,
+    "stderr": 0.046,
+    "input_tokens": 87126,
+    "output_tokens": 36155,
+    "nominal_price": 0.0716,
+    "input_rate": 0.2,
+    "output_rate": 0.8
+  },
+  {
+    "name": "Qwen3 235B A22B Instruct 2507",
+    "accuracy": 0.195,
+    "stderr": 0.023,
+    "input_tokens": 475217,
+    "output_tokens": 108119,
+    "nominal_price": 0.172,
+    "input_rate": 0.078,
+    "output_rate": 0.312
+  },
+  {
+    "name": "GLM 4.5 (S)",
+    "accuracy": 0.39,
+    "stderr": 0.048,
+    "input_tokens": 9070,
+    "output_tokens": 22826,
+    "nominal_price": 0.372,
+    "input_rate": 0.33,
+    "output_rate": 1.32
+  },
+  {
+    "name": "GPT 5 Chat",
+    "accuracy": 0.59,
+    "stderr": 0.049,
+    "input_tokens": 22094,
+    "output_tokens": 28757,
+    "nominal_price": 0.315,
+    "input_rate": 1.25,
+    "output_rate": 10
+  },
+  {
+    "name": "o3",
+    "accuracy": 0.762,
+    "stderr": 0.042,
+    "input_tokens": 118738,
+    "output_tokens": 332016,
+    "nominal_price": 2.83,
+    "input_rate": 2,
+    "output_rate": 8
+  },
+  {
+    "name": "R1 0528",
+    "raw_accuracy": 0.473,
+    "accuracy": 0.468,
+    "stderr": 0.048,
+    "input_tokens": 48855,
+    "output_tokens": 336678,
+    "nominal_price": 0.879,
+    "input_rate": 0.2,
+    "output_rate": 0.8,
+    "errors": 1
+  },
+  {
+    "name": "Gemini 2.5 Flash (S)",
+    "accuracy": 0.362,
+    "stderr": 0.048,
+    "input_tokens": 39618,
+    "output_tokens": 55600,
+    "nominal_price": 0.151,
+    "input_rate": 0.3,
+    "output_rate": 2.5
+  },
+  {
+    "name": "Llama 4 Maverick",
+    "accuracy": 0.146,
+    "stderr": 0.034,
+    "input_tokens": 37036,
+    "output_tokens": 50665,
+    "nominal_price": 0.191,
+    "input_rate": 0.15,
+    "output_rate": 0.6
+  },
+  {
+    "name": "Claude Opus 4.1 (S)",
+    "accuracy": 0.54,
+    "stderr": 0.05,
+    "input_tokens": 22927,
+    "output_tokens": 22238,
+    "nominal_price": 2.01,
+    "input_rate": 15,
+    "output_rate": 75
+  },
+  {
+    "name": "Qwen 3 Max Preview",
+    "accuracy": 0.31,
+    "stderr": 0.042,
+    "input_tokens": 259705,
+    "output_tokens": 43347,
+    "nominal_price": 0.572,
+    "input_rate": 1.2,
+    "output_rate": 6
+  },
+  {
+    "name": "Qwen 3 30a3b Thinking 2507",
+    "raw_accuracy": 0.327,
+    "accuracy": 0.3205,
+    "stderr": 0.048,
+    "input_tokens": 33447,
+    "output_tokens": 588310,
+    "nominal_price": 0.231,
+    "input_rate": 0.09,
+    "output_rate": 0.359,
+    "errors": 2
+  },
+  {
+    "name": "Qwen 3 Next 80a3b Instruct",
+    "accuracy": 0.182,
+    "stderr": 0.024,
+    "input_tokens": 395562,
+    "output_tokens": 91491,
+    "nominal_price": 0.205,
+    "input_rate": 0.147,
+    "output_rate": 0.587
+  },
+  {
+    "name": "Qwen 3 Next 80a3b Thinking",
+    "raw_accuracy": 0.441,
+    "accuracy": 0.437,
+    "stderr": 0.055,
+    "input_tokens": 65677,
+    "output_tokens": 773257,
+    "nominal_price": 3.36,
+    "input_rate": 0.147,
+    "output_rate": 0.587,
+    "errors": 1
+  },
+  {
+  "name": "GPT 4.1",
+  "accuracy": 0.530,
+  "stderr": 0.050,
+  "input_tokens": 22094,
+  "output_tokens": 13263,
+  "nominal_price": 0.15,
+  "input_rate": 2,
+  "output_rate": 8
+  },
+  {
+  "name": "Grok Code Fast 1",
+  "accuracy": 0.233,
+  "stderr": 0.037,
+  "input_tokens": 328286,
+  "output_tokens": 538537,
+  "nominal_price": 0.856,
+  "input_rate": 0.20,
+  "output_rate": 1.50
+  },
+  {
+  "name": "Sonoma Sky Alpha",
+  "raw_accuracy": 0.419,
+  "accuracy": 0.415,
+  "stderr": 0.046,
+  "input_tokens": 147052,
+  "output_tokens": 10078,
+  "nominal_price": 0.0613,
+  "input_rate": 0,
+  "output_rate": 0,
+  "errors": 1
+  },
+  {
+  "name": "Sonoma Dusk Alpha",
+  "accuracy": 0.260,
+  "stderr": 0.044,
+  "input_tokens": 22959,
+  "output_tokens": 15531,
+  "nominal_price": 0.0613,
+  "input_rate": 0,
+  "output_rate": 0
+  },
+  {
+  "name": "LongCat Flash Chat",
+  "accuracy": 0.192,
+  "stderr": 0.027,
+  "input_tokens": 481357,
+  "output_tokens": 135117,
+  "nominal_price": 0.173,
+  "input_rate": 0.15,
+  "output_rate": 0.75
+  }
+]
