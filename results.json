@@ -292,5 +292,55 @@
   "nominal_price": 0.173,
   "input_rate": 0.15,
   "output_rate": 0.75
+  },
+  {
+  "name": "Qwen 3 4b Thinking",
+  "accuracy": 0.137,
+  "stderr": 0.034,
+  "input_tokens": 53280,
+  "output_tokens": 313411,
+  "nominal_price": "",
+  "input_rate": 0.0,
+  "output_rate": 0.0
+  },
+  {
+  "name": "Qwen 3 4b Thinking",
+  "accuracy": 0.070,
+  "stderr": 0.026,
+  "input_tokens": 22776,
+  "output_tokens": 358419,
+  "nominal_price": "",
+  "input_rate": 0.0,
+  "output_rate": 0.0
+  },
+  {
+  "name": "Gemma 3 4b",
+  "accuracy": 0.010,
+  "stderr": 0.010,
+  "input_tokens": 23254,
+  "output_tokens": 8207,
+  "nominal_price": "",
+  "input_rate": 0.0,
+  "output_rate": 0.0
+  },
+  {
+  "name": "Nemotron Nano 9b v2",
+  "accuracy": 0.129,
+  "stderr": 0.026,
+  "input_tokens": 167035,
+  "output_tokens": 392764,
+  "nominal_price": 0.215,
+  "input_rate": 0.04,
+  "output_rate": 0.16
+  },
+  {
+  "name": "Arcee AFM 4.5B",
+  "accuracy": 0.090,
+  "stderr": 0.029,
+  "input_tokens": 50082,
+  "output_tokens": 15390,
+  "nominal_price": 0.0111,
+  "input_rate": 0.10,
+  "output_rate": 0.40
   }
 ]
