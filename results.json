@@ -304,7 +304,7 @@
   "output_rate": 0.0
   },
   {
-  "name": "Qwen 3 4b Thinking",
+  "name": "Qwen 3 1.7b Thinking",
   "accuracy": 0.070,
   "stderr": 0.026,
   "input_tokens": 22776,
