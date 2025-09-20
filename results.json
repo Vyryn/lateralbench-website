@@ -342,5 +342,17 @@
   "nominal_price": 0.0111,
   "input_rate": 0.10,
   "output_rate": 0.40
+  },
+  {
+  "name": "Grok 4 Fast (R)",
+  "raw_accuracy": 0.456,
+  "accuracy": 0.451,
+  "stderr": 0.044,
+  "input_tokens": 157063,
+  "output_tokens": 531372,
+  "nominal_price": 0.297,
+  "input_rate": 0.20,
+  "output_rate": 0.50,
+  "errors": 1
   }
 ]
