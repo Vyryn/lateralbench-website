@@ -364,5 +364,15 @@
   "input_rate": 0.09,
   "output_rate": 0.45,
   "errors": 3
+  },
+  {
+  "name": "Gemini 2.0 Flash",
+  "accuracy": 0.172,
+  "stderr": 0.034,
+  "input_tokens": 139072,
+  "output_tokens": 7808,
+  "nominal_price": 0.0198,
+  "input_rate": 0.10,
+  "output_rate": 0.40
   }
 ]
