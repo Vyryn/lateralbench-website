@@ -374,5 +374,25 @@
   "nominal_price": 0.0198,
   "input_rate": 0.10,
   "output_rate": 0.40
+  },
+  {
+  "name": "Gemini 2.5 Flash Lite",
+  "accuracy": 0.150,
+  "stderr": 0.036,
+  "input_tokens": 21839,
+  "output_tokens": 36179,
+  "nominal_price": 0.0166,
+  "input_rate": 0.10,
+  "output_rate": 0.40
+  },
+  {
+  "name": "GPT-4.1 mini",
+  "accuracy": 0.245,
+  "stderr": 0.043,
+  "input_tokens": 24192,
+  "output_tokens": 18999,
+  "nominal_price": 0.040,
+  "input_rate": 0.40,
+  "output_rate": 1.60
   }
 ]
