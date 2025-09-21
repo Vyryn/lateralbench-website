@@ -345,14 +345,24 @@
   },
   {
   "name": "Grok 4 Fast (R)",
-  "raw_accuracy": 0.456,
-  "accuracy": 0.451,
+  "accuracy": 0.396,
   "stderr": 0.044,
   "input_tokens": 157063,
   "output_tokens": 531372,
   "nominal_price": 0.297,
   "input_rate": 0.20,
-  "output_rate": 0.50,
-  "errors": 1
+  "output_rate": 0.50
+  },
+  {
+  "name": "Tongyi DeepResearch 30A3B",
+  "raw_accuracy": 0.263,
+  "accuracy": 0.255,
+  "stderr": 0.043,
+  "input_tokens": 25654,
+  "output_tokens": 373669,
+  "nominal_price": 0.247,
+  "input_rate": 0.09,
+  "output_rate": 0.45,
+  "errors": 3
   }
 ]
