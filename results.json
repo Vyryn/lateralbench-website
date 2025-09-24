@@ -26,7 +26,7 @@
     "stderr": 0.04,
     "input_tokens": 39299,
     "output_tokens": 231127,
-    "nominal_price": 6.135,
+    "nominal_price": 3.17,
     "input_rate": 1.25,
     "output_rate": 10,
     "errors": 1
@@ -394,5 +394,17 @@
   "nominal_price": 0.040,
   "input_rate": 0.40,
   "output_rate": 1.60
+  },
+  {
+  "name": "GPT-5 Codex",
+  "raw_accuracy": 0.759,
+  "accuracy": 0.751,
+  "stderr": 0.042,
+  "input_tokens": 37352,
+  "output_tokens": 266145,
+  "nominal_price": 2.71,
+  "input_rate": 1.25,
+  "output_rate": 10.0,
+  "errors": 1
   }
 ]
