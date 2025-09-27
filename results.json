@@ -448,13 +448,23 @@
     "output_rate": 0.40
   },
   {
-    "name": "Qwen 3 Max (R)",
-    "accuracy": 0.500,
-    "stderr": 0.050,
-    "input_tokens": 22776,
-    "output_tokens": 139635,
-    "nominal_price": 0.865,
+    "name": "Qwen 3 Max",
+    "accuracy": 0.476,
+    "stderr": 0.023,
+    "input_tokens": 24695,
+    "output_tokens": 129421,
+    "nominal_price": 0.806,
     "input_rate": 1.20,
     "output_rate": 6.00
+  },
+  {
+    "name": "DeepSeek v3.1 Terminus (R)",
+    "accuracy": 0.510,
+    "stderr": 0.044,
+    "input_tokens": 118949,
+    "output_tokens": 484781,
+    "nominal_price": 0.558,
+    "input_rate": 0.27,
+    "output_rate": 1.00
   }
 ]
