@@ -376,7 +376,7 @@
   "output_rate": 0.40
   },
   {
-  "name": "Gemini 2.5 Flash Lite",
+  "name": "Gemini 2.5 Flash Lite (S)",
   "accuracy": 0.150,
   "stderr": 0.036,
   "input_tokens": 21839,
@@ -396,7 +396,7 @@
   "output_rate": 1.60
   },
   {
-  "name": "GPT-5 Codex",
+  "name": "GPT-5 Codex (R)",
   "raw_accuracy": 0.759,
   "accuracy": 0.751,
   "stderr": 0.042,
@@ -406,5 +406,55 @@
   "input_rate": 1.25,
   "output_rate": 10.0,
   "errors": 1
+  },
+  {
+    "name": "Gemini 2.5 Flash Lite 09-2025 Preview (S)",
+    "accuracy": 0.248,
+    "stderr": 0.042,
+    "input_tokens": 106978,
+    "output_tokens": 36380,
+    "nominal_price": 0.0252,
+    "input_rate": 0.10,
+    "output_rate": 0.40
+  },
+  {
+    "name": "Gemini 2.5 Flash Lite 09-2025 Preview (R)",
+    "accuracy": 0.295,
+    "stderr": 0.045,
+    "input_tokens": 41913,
+    "output_tokens": 264210,
+    "nominal_price": 0.11,
+    "input_rate": 0.10,
+    "output_rate": 0.40
+  },
+  {
+    "name": "Gemini 2.5 Flash 09-2025 Preview (S)",
+    "accuracy": 0.393,
+    "stderr": 0.047,
+    "input_tokens": 55651,
+    "output_tokens": 73685,
+    "nominal_price": 0.201,
+    "input_rate": 0.10,
+    "output_rate": 0.40
+  },
+  {
+    "name": "Gemini 2.5 Flash 09-2025 Preview (R)",
+    "accuracy": 0.520,
+    "stderr": 0.049,
+    "input_tokens": 112480,
+    "output_tokens": 293368,
+    "nominal_price": 0.766,
+    "input_rate": 0.10,
+    "output_rate": 0.40
+  },
+  {
+    "name": "Qwen 3 Max (R)",
+    "accuracy": 0.500,
+    "stderr": 0.050,
+    "input_tokens": 22776,
+    "output_tokens": 139635,
+    "nominal_price": 0.865,
+    "input_rate": 1.20,
+    "output_rate": 6.00
   }
 ]
