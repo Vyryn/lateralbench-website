@@ -515,4 +515,14 @@
     "input_rate": 0.80,
     "output_rate": 4.00
   }
+  {
+    "name": "Claude Opus (R)",
+    "accuracy": 0.630,
+    "stderr": 0.044,
+    "input_tokens": 254670,
+    "output_tokens": 175897,
+    "nominal_price": 17.0,
+    "input_rate": 0.80,
+    "output_rate": 4.00
+  }
 ]
