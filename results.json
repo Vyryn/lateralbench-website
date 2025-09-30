@@ -514,7 +514,7 @@
     "nominal_price": 0.404,
     "input_rate": 0.80,
     "output_rate": 4.00
-  }
+  },
   {
     "name": "Claude Opus (R)",
     "accuracy": 0.630,
