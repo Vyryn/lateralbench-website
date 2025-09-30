@@ -524,5 +524,15 @@
     "nominal_price": 17.0,
     "input_rate": 0.80,
     "output_rate": 4.00
+  },
+  {
+    "name": "GLM 4.6 (R)",
+    "accuracy": 0.510,
+    "stderr": 0.050,
+    "input_tokens": 23101,
+    "output_tokens": 241942,
+    "nominal_price": 0.563,
+    "input_rate": 0.60,
+    "output_rate": 2.10
   }
 ]
