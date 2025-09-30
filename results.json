@@ -484,6 +484,16 @@
     "output_rate": 15.00
   },
   {
+    "name": "Claude Sonnet 4.5 (R) Re-run",
+    "accuracy": 0.589,
+    "stderr": 0.048,
+    "input_tokens": 79188,
+    "output_tokens": 232076,
+    "nominal_price": 3.71,
+    "input_rate": 3.00,
+    "output_rate": 15.00
+  },
+  {
     "name": "DeepSeek V3.2 Exp",
     "raw_accuracy": 0.492,
     "accuracy": 0.487,
@@ -494,5 +504,15 @@
     "input_rate": 0.27,
     "output_rate": 0.41,
     "errors": 1
+  },
+  {
+    "name": "Claude Haiku 3.5",
+    "accuracy": 0.228,
+    "stderr": 0.036,
+    "input_tokens": 292910,
+    "output_tokens": 42573,
+    "nominal_price": 0.404,
+    "input_rate": 0.80,
+    "output_rate": 4.00
   }
 ]
