@@ -494,6 +494,16 @@
     "output_rate": 15.00
   },
   {
+    "name": "Claude Sonnet 4.5 (S)",
+    "accuracy": 0.625,
+    "stderr": 0.046,
+    "input_tokens": 110286,
+    "output_tokens": 52010,
+    "nominal_price": 1.11,
+    "input_rate": 3.00,
+    "output_rate": 15.00
+  },
+  {
     "name": "DeepSeek V3.2 Exp",
     "raw_accuracy": 0.492,
     "accuracy": 0.487,
@@ -516,7 +526,7 @@
     "output_rate": 4.00
   },
   {
-    "name": "Claude Opus (R)",
+    "name": "Claude Opus 4.1 (R)",
     "accuracy": 0.630,
     "stderr": 0.044,
     "input_tokens": 254670,
