@@ -475,18 +475,8 @@
   },
   {
     "name": "Claude Sonnet 4.5 (R)",
-    "accuracy": 0.613,
-    "stderr": 0.049,
-    "input_tokens": 38118,
-    "output_tokens": 203712,
-    "nominal_price": 3.186,
-    "input_rate": 3.00,
-    "output_rate": 15.00
-  },
-  {
-    "name": "Claude Sonnet 4.5 (R) Re-run",
-    "accuracy": 0.589,
-    "stderr": 0.048,
+    "accuracy": 0.601,
+    "stderr": 0.025,
     "input_tokens": 79188,
     "output_tokens": 232076,
     "nominal_price": 3.71,
