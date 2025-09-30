@@ -248,14 +248,14 @@
   {
   "name": "GPT 4.1",
   "raw_accuracy": 0.530,
-  "accuracy": 0.520,
+  "accuracy": 0.480,
   "stderr": 0.050,
   "input_tokens": 22094,
   "output_tokens": 13263,
   "nominal_price": 0.15,
   "input_rate": 2,
   "output_rate": 8,
-  "errors": 1
+  "errors": 5
   },
   {
   "name": "Grok Code Fast 1",
