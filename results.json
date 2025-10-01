@@ -1,6 +1,7 @@
 [
   {
     "name": "GPT-5-nano",
+    "company": "OpenAI",
     "accuracy": 0.302,
     "stderr": 0.044,
     "input_tokens": 116571,
@@ -11,6 +12,7 @@
   },
   {
     "name": "GPT-5-mini",
+    "company": "OpenAI",
     "accuracy": 0.467,
     "stderr": 0.047,
     "input_tokens": 209035,
@@ -21,6 +23,7 @@
   },
   {
     "name": "GPT-5",
+    "company": "OpenAI",
     "raw_accuracy": 0.801,
     "accuracy": 0.763,
     "stderr": 0.04,
@@ -33,6 +36,7 @@
   },
   {
     "name": "Claude Sonnet 4 (S)",
+    "company": "Anthropic",
     "accuracy": 0.42,
     "stderr": 0.05,
     "input_tokens": 22927,
@@ -43,6 +47,7 @@
   },
   {
     "name": "Grok 4 (R)",
+    "company": "xAI",
     "raw_accuracy": 0.745,
     "accuracy": 0.715,
     "stderr": 0.041,
@@ -55,6 +60,7 @@
   },
   {
     "name": "GPT-OSS-20b",
+    "company": "OpenAI",
     "raw_accuracy": 0.25,
     "accuracy": 0.245,
     "stderr": 0.044,
@@ -67,6 +73,7 @@
   },
   {
     "name": "Gemini 2.5 Pro",
+    "company": "Google",
     "accuracy": 0.63,
     "stderr": 0.049,
     "input_tokens": 21839,
@@ -77,6 +84,7 @@
   },
   {
     "name": "GPT OSS 120b",
+    "company": "OpenAI",
     "accuracy": 0.368,
     "stderr": 0.048,
     "input_tokens": 65644,
@@ -87,6 +95,7 @@
   },
   {
     "name": "Kimi K2 0905",
+    "company": "Moonshot",
     "accuracy": 0.412,
     "stderr": 0.048,
     "input_tokens": 45591,
@@ -97,6 +106,7 @@
   },
   {
     "name": "Kimi K2 0711",
+    "company": "Moonshot",
     "accuracy": 0.448,
     "stderr": 0.049,
     "input_tokens": 27793,
@@ -107,6 +117,7 @@
   },
   {
     "name": "DeepSeek v3.1 (S)",
+    "company": "DeepSeek",
     "accuracy": 0.463,
     "stderr": 0.046,
     "input_tokens": 87126,
@@ -117,6 +128,7 @@
   },
   {
     "name": "Qwen3 235B A22B Instruct 2507",
+    "company": "Alibaba",
     "accuracy": 0.195,
     "stderr": 0.023,
     "input_tokens": 475217,
@@ -127,6 +139,7 @@
   },
   {
     "name": "GLM 4.5 (S)",
+    "company": "Z.ai",
     "accuracy": 0.39,
     "stderr": 0.048,
     "input_tokens": 9070,
@@ -137,6 +150,7 @@
   },
   {
     "name": "GPT 5 Chat",
+    "company": "OpenAI",
     "raw_accuracy": 0.59,
     "accuracy": 0.49,
     "stderr": 0.049,
@@ -149,6 +163,7 @@
   },
   {
     "name": "o3",
+    "company": "OpenAI",
     "raw_accuracy": 0.762,
     "accuracy": 0.752,
     "stderr": 0.042,
@@ -161,6 +176,7 @@
   },
   {
     "name": "R1 0528",
+    "company": "DeepSeek",
     "raw_accuracy": 0.473,
     "accuracy": 0.468,
     "stderr": 0.048,
@@ -173,6 +189,7 @@
   },
   {
     "name": "Gemini 2.5 Flash (S)",
+    "company": "Google",
     "accuracy": 0.362,
     "stderr": 0.048,
     "input_tokens": 39618,
@@ -183,6 +200,7 @@
   },
   {
     "name": "Llama 4 Maverick",
+    "company": "Meta",
     "accuracy": 0.146,
     "stderr": 0.034,
     "input_tokens": 37036,
@@ -193,6 +211,7 @@
   },
   {
     "name": "Claude Opus 4.1 (S)",
+    "company": "Anthropic",
     "accuracy": 0.54,
     "stderr": 0.05,
     "input_tokens": 22927,
@@ -203,6 +222,7 @@
   },
   {
     "name": "Qwen 3 Max Preview",
+    "company": "Alibaba",
     "accuracy": 0.31,
     "stderr": 0.042,
     "input_tokens": 259705,
@@ -213,6 +233,7 @@
   },
   {
     "name": "Qwen 3 30a3b Thinking 2507",
+    "company": "Alibaba",
     "raw_accuracy": 0.327,
     "accuracy": 0.3205,
     "stderr": 0.048,
@@ -225,6 +246,7 @@
   },
   {
     "name": "Qwen 3 Next 80a3b Instruct",
+    "company": "Alibaba",
     "accuracy": 0.182,
     "stderr": 0.024,
     "input_tokens": 395562,
@@ -235,6 +257,7 @@
   },
   {
     "name": "Qwen 3 Next 80a3b Thinking",
+    "company": "Alibaba",
     "raw_accuracy": 0.441,
     "accuracy": 0.437,
     "stderr": 0.055,
@@ -246,175 +269,192 @@
     "errors": 1
   },
   {
-  "name": "GPT 4.1",
-  "raw_accuracy": 0.530,
-  "accuracy": 0.480,
-  "stderr": 0.050,
-  "input_tokens": 22094,
-  "output_tokens": 13263,
-  "nominal_price": 0.15,
-  "input_rate": 2,
-  "output_rate": 8,
-  "errors": 5
+    "name": "GPT 4.1",
+    "company": "OpenAI",
+    "raw_accuracy": 0.530,
+    "accuracy": 0.480,
+    "stderr": 0.050,
+    "input_tokens": 22094,
+    "output_tokens": 13263,
+    "nominal_price": 0.15,
+    "input_rate": 2,
+    "output_rate": 8,
+    "errors": 5
   },
   {
-  "name": "Grok Code Fast 1",
-  "accuracy": 0.233,
-  "stderr": 0.037,
-  "input_tokens": 328286,
-  "output_tokens": 538537,
-  "nominal_price": 0.856,
-  "input_rate": 0.20,
-  "output_rate": 1.50
+    "name": "Grok Code Fast 1",
+    "company": "xAI",
+    "accuracy": 0.233,
+    "stderr": 0.037,
+    "input_tokens": 328286,
+    "output_tokens": 538537,
+    "nominal_price": 0.856,
+    "input_rate": 0.20,
+    "output_rate": 1.50
   },
   {
-  "name": "Sonoma Sky Alpha",
-  "raw_accuracy": 0.419,
-  "accuracy": 0.415,
-  "stderr": 0.046,
-  "input_tokens": 147052,
-  "output_tokens": 10078,
-  "nominal_price": "",
-  "input_rate": 0,
-  "output_rate": 0,
-  "errors": 1
+    "name": "Sonoma Sky Alpha",
+    "company": "xAI",
+    "raw_accuracy": 0.419,
+    "accuracy": 0.415,
+    "stderr": 0.046,
+    "input_tokens": 147052,
+    "output_tokens": 10078,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0,
+    "errors": 1
   },
   {
-  "name": "Sonoma Dusk Alpha",
-  "accuracy": 0.260,
-  "stderr": 0.044,
-  "input_tokens": 22959,
-  "output_tokens": 15531,
-  "nominal_price": "",
-  "input_rate": 0,
-  "output_rate": 0
+    "name": "Sonoma Dusk Alpha",
+    "company": "xAI",
+    "accuracy": 0.260,
+    "stderr": 0.044,
+    "input_tokens": 22959,
+    "output_tokens": 15531,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0
   },
   {
-  "name": "LongCat Flash Chat",
-  "accuracy": 0.192,
-  "stderr": 0.027,
-  "input_tokens": 481357,
-  "output_tokens": 135117,
-  "nominal_price": 0.173,
-  "input_rate": 0.15,
-  "output_rate": 0.75
+    "name": "LongCat Flash Chat",
+    "company": "Meituan",
+    "accuracy": 0.192,
+    "stderr": 0.027,
+    "input_tokens": 481357,
+    "output_tokens": 135117,
+    "nominal_price": 0.173,
+    "input_rate": 0.15,
+    "output_rate": 0.75
   },
   {
-  "name": "Qwen 3 4b Thinking",
-  "accuracy": 0.137,
-  "stderr": 0.034,
-  "input_tokens": 53280,
-  "output_tokens": 313411,
-  "nominal_price": "",
-  "input_rate": 0.0,
-  "output_rate": 0.0
+    "name": "Qwen 3 4b Thinking",
+    "company": "Alibaba",
+    "accuracy": 0.137,
+    "stderr": 0.034,
+    "input_tokens": 53280,
+    "output_tokens": 313411,
+    "nominal_price": "",
+    "input_rate": 0.0,
+    "output_rate": 0.0
   },
   {
-  "name": "Qwen 3 1.7b Thinking",
-  "accuracy": 0.070,
-  "stderr": 0.026,
-  "input_tokens": 22776,
-  "output_tokens": 358419,
-  "nominal_price": "",
-  "input_rate": 0.0,
-  "output_rate": 0.0
+    "name": "Qwen 3 1.7b Thinking",
+    "company": "Alibaba",
+    "accuracy": 0.070,
+    "stderr": 0.026,
+    "input_tokens": 22776,
+    "output_tokens": 358419,
+    "nominal_price": "",
+    "input_rate": 0.0,
+    "output_rate": 0.0
   },
   {
-  "name": "Gemma 3 4b",
-  "accuracy": 0.010,
-  "stderr": 0.010,
-  "input_tokens": 23254,
-  "output_tokens": 8207,
-  "nominal_price": "",
-  "input_rate": 0.0,
-  "output_rate": 0.0
+    "name": "Gemma 3 4b",
+    "company": "Google",
+    "accuracy": 0.010,
+    "stderr": 0.010,
+    "input_tokens": 23254,
+    "output_tokens": 8207,
+    "nominal_price": "",
+    "input_rate": 0.0,
+    "output_rate": 0.0
   },
   {
-  "name": "Nemotron Nano 9b v2",
-  "accuracy": 0.129,
-  "stderr": 0.026,
-  "input_tokens": 167035,
-  "output_tokens": 392764,
-  "nominal_price": 0.215,
-  "input_rate": 0.04,
-  "output_rate": 0.16
+    "name": "Nemotron Nano 9b v2",
+    "company": "NVIDIA",
+    "accuracy": 0.129,
+    "stderr": 0.026,
+    "input_tokens": 167035,
+    "output_tokens": 392764,
+    "nominal_price": 0.215,
+    "input_rate": 0.04,
+    "output_rate": 0.16
   },
   {
-  "name": "Arcee AFM 4.5B",
-  "accuracy": 0.090,
-  "stderr": 0.029,
-  "input_tokens": 50082,
-  "output_tokens": 15390,
-  "nominal_price": 0.0111,
-  "input_rate": 0.10,
-  "output_rate": 0.40
+    "name": "Arcee AFM 4.5B",
+    "company": "Arcee",
+    "accuracy": 0.090,
+    "stderr": 0.029,
+    "input_tokens": 50082,
+    "output_tokens": 15390,
+    "nominal_price": 0.0111,
+    "input_rate": 0.10,
+    "output_rate": 0.40
   },
   {
-  "name": "Grok 4 Fast (R)",
-  "accuracy": 0.396,
-  "stderr": 0.044,
-  "input_tokens": 157063,
-  "output_tokens": 531372,
-  "nominal_price": 0.297,
-  "input_rate": 0.20,
-  "output_rate": 0.50
+    "name": "Grok 4 Fast (R)",
+    "company": "xAI",
+    "accuracy": 0.396,
+    "stderr": 0.044,
+    "input_tokens": 157063,
+    "output_tokens": 531372,
+    "nominal_price": 0.297,
+    "input_rate": 0.20,
+    "output_rate": 0.50
   },
   {
-  "name": "Tongyi DeepResearch 30A3B",
-  "raw_accuracy": 0.263,
-  "accuracy": 0.255,
-  "stderr": 0.043,
-  "input_tokens": 25654,
-  "output_tokens": 373669,
-  "nominal_price": 0.247,
-  "input_rate": 0.09,
-  "output_rate": 0.45,
-  "errors": 3
+    "name": "Tongyi DeepResearch 30A3B",
+    "company": "Alibaba",
+    "raw_accuracy": 0.263,
+    "accuracy": 0.255,
+    "stderr": 0.043,
+    "input_tokens": 25654,
+    "output_tokens": 373669,
+    "nominal_price": 0.247,
+    "input_rate": 0.09,
+    "output_rate": 0.45,
+    "errors": 3
   },
   {
-  "name": "Gemini 2.0 Flash",
-  "accuracy": 0.172,
-  "stderr": 0.034,
-  "input_tokens": 139072,
-  "output_tokens": 7808,
-  "nominal_price": 0.0198,
-  "input_rate": 0.10,
-  "output_rate": 0.40
+    "name": "Gemini 2.0 Flash",
+    "company": "Google",
+    "accuracy": 0.172,
+    "stderr": 0.034,
+    "input_tokens": 139072,
+    "output_tokens": 7808,
+    "nominal_price": 0.0198,
+    "input_rate": 0.10,
+    "output_rate": 0.40
   },
   {
-  "name": "Gemini 2.5 Flash Lite (S)",
-  "accuracy": 0.150,
-  "stderr": 0.036,
-  "input_tokens": 21839,
-  "output_tokens": 36179,
-  "nominal_price": 0.0166,
-  "input_rate": 0.10,
-  "output_rate": 0.40
+    "name": "Gemini 2.5 Flash Lite (S)",
+    "company": "Google",
+    "accuracy": 0.150,
+    "stderr": 0.036,
+    "input_tokens": 21839,
+    "output_tokens": 36179,
+    "nominal_price": 0.0166,
+    "input_rate": 0.10,
+    "output_rate": 0.40
   },
   {
-  "name": "GPT-4.1 mini",
-  "accuracy": 0.245,
-  "stderr": 0.043,
-  "input_tokens": 24192,
-  "output_tokens": 18999,
-  "nominal_price": 0.040,
-  "input_rate": 0.40,
-  "output_rate": 1.60
+    "name": "GPT-4.1 mini",
+    "company": "OpenAI",
+    "accuracy": 0.245,
+    "stderr": 0.043,
+    "input_tokens": 24192,
+    "output_tokens": 18999,
+    "nominal_price": 0.040,
+    "input_rate": 0.40,
+    "output_rate": 1.60
   },
   {
-  "name": "GPT-5 Codex (R)",
-  "raw_accuracy": 0.759,
-  "accuracy": 0.751,
-  "stderr": 0.042,
-  "input_tokens": 37352,
-  "output_tokens": 266145,
-  "nominal_price": 2.71,
-  "input_rate": 1.25,
-  "output_rate": 10.0,
-  "errors": 1
+    "name": "GPT-5 Codex (R)",
+    "company": "OpenAI",
+    "raw_accuracy": 0.759,
+    "accuracy": 0.751,
+    "stderr": 0.042,
+    "input_tokens": 37352,
+    "output_tokens": 266145,
+    "nominal_price": 2.71,
+    "input_rate": 1.25,
+    "output_rate": 10.0,
+    "errors": 1
   },
   {
     "name": "Gemini 2.5 Flash Lite 09-2025 Preview (S)",
+    "company": "Google",
     "accuracy": 0.248,
     "stderr": 0.042,
     "input_tokens": 106978,
@@ -425,6 +465,7 @@
   },
   {
     "name": "Gemini 2.5 Flash Lite 09-2025 Preview (R)",
+    "company": "Google",
     "accuracy": 0.295,
     "stderr": 0.045,
     "input_tokens": 41913,
@@ -435,6 +476,7 @@
   },
   {
     "name": "Gemini 2.5 Flash 09-2025 Preview (S)",
+    "company": "Google",
     "accuracy": 0.393,
     "stderr": 0.047,
     "input_tokens": 55651,
@@ -445,6 +487,7 @@
   },
   {
     "name": "Gemini 2.5 Flash 09-2025 Preview (R)",
+    "company": "Google",
     "accuracy": 0.520,
     "stderr": 0.049,
     "input_tokens": 112480,
@@ -455,6 +498,7 @@
   },
   {
     "name": "Qwen 3 Max",
+    "company": "Alibaba",
     "accuracy": 0.476,
     "stderr": 0.023,
     "input_tokens": 24695,
@@ -465,6 +509,7 @@
   },
   {
     "name": "DeepSeek v3.1 Terminus (R)",
+    "company": "DeepSeek",
     "accuracy": 0.510,
     "stderr": 0.044,
     "input_tokens": 118949,
@@ -475,6 +520,7 @@
   },
   {
     "name": "Claude Sonnet 4.5 (R)",
+    "company": "Anthropic",
     "accuracy": 0.601,
     "stderr": 0.025,
     "input_tokens": 79188,
@@ -485,6 +531,7 @@
   },
   {
     "name": "Claude Sonnet 4.5 (S)",
+    "company": "Anthropic",
     "accuracy": 0.625,
     "stderr": 0.046,
     "input_tokens": 110286,
@@ -495,6 +542,7 @@
   },
   {
     "name": "DeepSeek V3.2 Exp",
+    "company": "DeepSeek",
     "raw_accuracy": 0.492,
     "accuracy": 0.487,
     "stderr": 0.047,
@@ -507,6 +555,7 @@
   },
   {
     "name": "Claude Haiku 3.5",
+    "company": "Anthropic",
     "accuracy": 0.228,
     "stderr": 0.036,
     "input_tokens": 292910,
@@ -517,6 +566,7 @@
   },
   {
     "name": "Claude Opus 4.1 (R)",
+    "company": "Anthropic",
     "accuracy": 0.630,
     "stderr": 0.044,
     "input_tokens": 254670,
@@ -527,6 +577,7 @@
   },
   {
     "name": "GLM 4.6 (R)",
+    "company": "Z.ai",
     "accuracy": 0.510,
     "stderr": 0.050,
     "input_tokens": 23101,
