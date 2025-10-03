@@ -585,5 +585,16 @@
     "nominal_price": 0.563,
     "input_rate": 0.60,
     "output_rate": 2.10
+  },
+  {
+    "name": "Gemma 3 12b it",
+    "company": "Google",
+    "accuracy": 0.173,
+    "stderr": 0.038,
+    "input_tokens": 27701,
+    "output_tokens": 8398,
+    "nominal_price": 0.002406,
+    "input_rate": 0.04,
+    "output_rate": 0.13
   }
 ]
