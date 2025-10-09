@@ -596,5 +596,16 @@
     "nominal_price": 0.002406,
     "input_rate": 0.04,
     "output_rate": 0.13
+  },
+  {
+    "name": "GPT 4.1 mini",
+    "company": "OpenAI",
+    "accuracy": 0.283,
+    "stderr": 0.044,
+    "input_tokens": 65238,
+    "output_tokens": 29915,
+    "nominal_price": 0.753,
+    "input_rate": 0.40,
+    "output_rate": 0.160
   }
 ]
