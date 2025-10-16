@@ -1,6 +1,6 @@
 [
   {
-    "name": "GPT-5-nano",
+    "name": "GPT-5-nano (R)",
     "company": "OpenAI",
     "accuracy": 0.302,
     "stderr": 0.044,
@@ -11,7 +11,7 @@
     "output_rate": 0.4
   },
   {
-    "name": "GPT-5-mini",
+    "name": "GPT-5-mini (R)",
     "company": "OpenAI",
     "accuracy": 0.467,
     "stderr": 0.047,
@@ -22,7 +22,7 @@
     "output_rate": 2
   },
   {
-    "name": "GPT-5",
+    "name": "GPT-5 (R)",
     "company": "OpenAI",
     "raw_accuracy": 0.801,
     "accuracy": 0.763,
@@ -59,7 +59,7 @@
     "errors": 4
   },
   {
-    "name": "GPT-OSS-20b",
+    "name": "GPT-OSS-20b (R)",
     "company": "OpenAI",
     "raw_accuracy": 0.25,
     "accuracy": 0.245,
@@ -72,7 +72,7 @@
     "errors": 2
   },
   {
-    "name": "Gemini 2.5 Pro",
+    "name": "Gemini 2.5 Pro (R)",
     "company": "Google",
     "accuracy": 0.63,
     "stderr": 0.049,
@@ -83,7 +83,7 @@
     "output_rate": 10
   },
   {
-    "name": "GPT OSS 120b",
+    "name": "GPT OSS 120b (R)",
     "company": "OpenAI",
     "accuracy": 0.368,
     "stderr": 0.048,
@@ -94,7 +94,7 @@
     "output_rate": 0.28
   },
   {
-    "name": "Kimi K2 0905",
+    "name": "Kimi K2 0905 (S)",
     "company": "Moonshot",
     "accuracy": 0.412,
     "stderr": 0.048,
@@ -105,7 +105,7 @@
     "output_rate": 1.185
   },
   {
-    "name": "Kimi K2 0711",
+    "name": "Kimi K2 0711 (S)",
     "company": "Moonshot",
     "accuracy": 0.448,
     "stderr": 0.049,
@@ -127,7 +127,7 @@
     "output_rate": 0.8
   },
   {
-    "name": "Qwen3 235B A22B Instruct 2507",
+    "name": "Qwen3 235a22b 2507 (S)",
     "company": "Alibaba",
     "accuracy": 0.195,
     "stderr": 0.023,
@@ -149,7 +149,7 @@
     "output_rate": 1.32
   },
   {
-    "name": "GPT 5 Chat",
+    "name": "GPT 5 Chat (S)",
     "company": "OpenAI",
     "raw_accuracy": 0.59,
     "accuracy": 0.49,
@@ -162,7 +162,7 @@
     "errors": 10
   },
   {
-    "name": "o3",
+    "name": "o3 (R)",
     "company": "OpenAI",
     "raw_accuracy": 0.762,
     "accuracy": 0.752,
@@ -175,7 +175,7 @@
     "errors": 1
   },
   {
-    "name": "R1 0528",
+    "name": "R1 0528 (R)",
     "company": "DeepSeek",
     "raw_accuracy": 0.473,
     "accuracy": 0.468,
@@ -199,7 +199,7 @@
     "output_rate": 2.5
   },
   {
-    "name": "Llama 4 Maverick",
+    "name": "Llama 4 Maverick (S)",
     "company": "Meta",
     "accuracy": 0.146,
     "stderr": 0.034,
@@ -221,7 +221,7 @@
     "output_rate": 75
   },
   {
-    "name": "Qwen 3 Max Preview",
+    "name": "Qwen 3 Max Preview (S)",
     "company": "Alibaba",
     "accuracy": 0.31,
     "stderr": 0.042,
@@ -232,7 +232,7 @@
     "output_rate": 6
   },
   {
-    "name": "Qwen 3 30a3b Thinking 2507",
+    "name": "Qwen 3 30a3b 2507 (R)",
     "company": "Alibaba",
     "raw_accuracy": 0.327,
     "accuracy": 0.3205,
@@ -245,7 +245,7 @@
     "errors": 2
   },
   {
-    "name": "Qwen 3 Next 80a3b Instruct",
+    "name": "Qwen 3 Next 80a3b (S)",
     "company": "Alibaba",
     "accuracy": 0.182,
     "stderr": 0.024,
@@ -256,7 +256,7 @@
     "output_rate": 0.587
   },
   {
-    "name": "Qwen 3 Next 80a3b Thinking",
+    "name": "Qwen 3 Next 80a3b (R)",
     "company": "Alibaba",
     "raw_accuracy": 0.441,
     "accuracy": 0.437,
@@ -269,7 +269,7 @@
     "errors": 1
   },
   {
-    "name": "GPT 4.1",
+    "name": "GPT 4.1 (S)",
     "company": "OpenAI",
     "raw_accuracy": 0.530,
     "accuracy": 0.480,
@@ -282,7 +282,7 @@
     "errors": 5
   },
   {
-    "name": "Grok Code Fast 1",
+    "name": "Grok Code Fast 1 (R)",
     "company": "xAI",
     "accuracy": 0.233,
     "stderr": 0.037,
@@ -317,7 +317,7 @@
     "output_rate": 0
   },
   {
-    "name": "LongCat Flash Chat",
+    "name": "LongCat Flash Chat (S)",
     "company": "Meituan",
     "accuracy": 0.192,
     "stderr": 0.027,
@@ -328,7 +328,7 @@
     "output_rate": 0.75
   },
   {
-    "name": "Qwen 3 4b Thinking",
+    "name": "Qwen 3 4b Thinking (R)",
     "company": "Alibaba",
     "accuracy": 0.137,
     "stderr": 0.034,
@@ -339,7 +339,7 @@
     "output_rate": 0.0
   },
   {
-    "name": "Qwen 3 1.7b Thinking",
+    "name": "Qwen 3 1.7b Thinking (R)",
     "company": "Alibaba",
     "accuracy": 0.070,
     "stderr": 0.026,
@@ -350,7 +350,7 @@
     "output_rate": 0.0
   },
   {
-    "name": "Gemma 3 4b",
+    "name": "Gemma 3 4b (S)",
     "company": "Google",
     "accuracy": 0.010,
     "stderr": 0.010,
@@ -361,7 +361,7 @@
     "output_rate": 0.0
   },
   {
-    "name": "Nemotron Nano 9b v2",
+    "name": "Nemotron Nano 9b v2 (R)",
     "company": "NVIDIA",
     "accuracy": 0.129,
     "stderr": 0.026,
@@ -372,7 +372,7 @@
     "output_rate": 0.16
   },
   {
-    "name": "Arcee AFM 4.5B",
+    "name": "Arcee AFM 4.5b (S)",
     "company": "Arcee",
     "accuracy": 0.090,
     "stderr": 0.029,
@@ -394,7 +394,7 @@
     "output_rate": 0.50
   },
   {
-    "name": "Tongyi DeepResearch 30A3B",
+    "name": "Tongyi DeepResearch 30a3b (R)",
     "company": "Alibaba",
     "raw_accuracy": 0.263,
     "accuracy": 0.255,
@@ -407,7 +407,7 @@
     "errors": 3
   },
   {
-    "name": "Gemini 2.0 Flash",
+    "name": "Gemini 2.0 Flash (S)",
     "company": "Google",
     "accuracy": 0.172,
     "stderr": 0.034,
@@ -427,17 +427,6 @@
     "nominal_price": 0.0166,
     "input_rate": 0.10,
     "output_rate": 0.40
-  },
-  {
-    "name": "GPT-4.1 mini",
-    "company": "OpenAI",
-    "accuracy": 0.245,
-    "stderr": 0.043,
-    "input_tokens": 24192,
-    "output_tokens": 18999,
-    "nominal_price": 0.040,
-    "input_rate": 0.40,
-    "output_rate": 1.60
   },
   {
     "name": "GPT-5 Codex (R)",
@@ -497,7 +486,7 @@
     "output_rate": 0.40
   },
   {
-    "name": "Qwen 3 Max",
+    "name": "Qwen 3 Max (S)",
     "company": "Alibaba",
     "accuracy": 0.476,
     "stderr": 0.023,
@@ -541,7 +530,7 @@
     "output_rate": 15.00
   },
   {
-    "name": "DeepSeek V3.2 Exp",
+    "name": "DeepSeek V3.2 Exp (S)",
     "company": "DeepSeek",
     "raw_accuracy": 0.492,
     "accuracy": 0.487,
@@ -554,7 +543,7 @@
     "errors": 1
   },
   {
-    "name": "Claude Haiku 3.5",
+    "name": "Claude Haiku 3.5 (S)",
     "company": "Anthropic",
     "accuracy": 0.228,
     "stderr": 0.036,
@@ -587,7 +576,7 @@
     "output_rate": 2.10
   },
   {
-    "name": "Gemma 3 12b it",
+    "name": "Gemma 3 12b it (S)",
     "company": "Google",
     "accuracy": 0.173,
     "stderr": 0.038,
@@ -598,14 +587,36 @@
     "output_rate": 0.13
   },
   {
-    "name": "GPT 4.1 mini",
+    "name": "GPT 4.1 mini (S)",
     "company": "OpenAI",
-    "accuracy": 0.283,
-    "stderr": 0.044,
-    "input_tokens": 65238,
-    "output_tokens": 29915,
-    "nominal_price": 0.753,
+    "accuracy": 0.264,
+    "stderr": 0.022,
+    "input_tokens": 44715,
+    "output_tokens": 24457,
+    "nominal_price": 0.575,
     "input_rate": 0.40,
-    "output_rate": 0.160
+    "output_rate": 1.60
+  },
+  {
+    "name": "Ernie 4.5 21a3b (R)",
+    "company": "Baidu",
+    "accuracy": 0.142,
+    "stderr": 0.034,
+    "input_tokens": 78410,
+    "output_tokens": 564259,
+    "nominal_price": 0.163,
+    "input_rate": 0.07,
+    "output_rate": 0.28
+  },
+  {
+    "name": "Claude Haiku 4.5 (R)",
+    "company": "Anthropic",
+    "accuracy": 0.332,
+    "stderr": 0.046,
+    "input_tokens": 87653,
+    "output_tokens": 581326,
+    "nominal_price": 2.99,
+    "input_rate": 1.00,
+    "output_rate": 5.00
   }
 ]
