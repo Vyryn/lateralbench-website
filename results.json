@@ -618,5 +618,16 @@
     "nominal_price": 2.99,
     "input_rate": 1.00,
     "output_rate": 5.00
+  },
+  {
+    "name": "Ling 1T (S)",
+    "company": "inclusionAI",
+    "accuracy": 0.265,
+    "stderr": 0.043,
+    "input_tokens": 131939,
+    "output_tokens": 135335,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0
   }
 ]
