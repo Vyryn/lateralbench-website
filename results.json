@@ -629,5 +629,18 @@
     "nominal_price": "",
     "input_rate": 0,
     "output_rate": 0
+  },
+  {
+    "name": "Andromeda Alpha",
+    "company": "Cloaked",
+    "raw_accuracy": 0.199,
+    "accuracy": 0.193,
+    "stderr": 0.040,
+    "input_tokens": 39429,
+    "output_tokens": 598050,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0,
+    "errors": 3
   }
 ]
