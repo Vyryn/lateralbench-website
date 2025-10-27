@@ -642,5 +642,18 @@
     "input_rate": 0,
     "output_rate": 0,
     "errors": 3
+  },
+  {
+    "name": "Minimax M2",
+    "company": "Minimax",
+    "raw_accuracy": 0.397,
+    "accuracy": 0.393,
+    "stderr": 0.049,
+    "input_tokens": 27933,
+    "output_tokens": 1620618,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0,
+    "errors": 1
   }
 ]
