@@ -655,5 +655,27 @@
     "input_rate": 0,
     "output_rate": 0,
     "errors": 1
+  },
+  {
+    "name": "Granite 4.0 Micro (S)",
+    "company": "IBM",
+    "accuracy": 0.017,
+    "stderr": 0.009,
+    "input_tokens": 461985,
+    "output_tokens": 31583,
+    "nominal_price": 0.00918,
+    "input_rate": 0.017,
+    "output_rate": 0.11
+  }
+  {
+    "name": "Nova Premier 1.0",
+    "company": "Amazon",
+    "accuracy": 0.310,
+    "stderr": 0.046,
+    "input_tokens": 27863,
+    "output_tokens": 35277,
+    "nominal_price": 0.511,
+    "input_rate": 2.50,
+    "output_rate": 12.50
   }
 ]
