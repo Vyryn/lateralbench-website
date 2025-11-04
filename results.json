@@ -666,9 +666,9 @@
     "nominal_price": 0.00918,
     "input_rate": 0.017,
     "output_rate": 0.11
-  }
+  },
   {
-    "name": "Nova Premier 1.0",
+    "name": "Nova Premier 1.0 (S)",
     "company": "Amazon",
     "accuracy": 0.310,
     "stderr": 0.046,
