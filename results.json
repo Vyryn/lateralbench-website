@@ -690,16 +690,16 @@
     "output_rate": 0
   },
   {
-    "name": "Kimi K2 Thinking (R) [Preliminary Results Only]",
+    "name": "Kimi K2 Thinking (R)",
     "company": "Moonshot",
-    "raw_accuracy": 0.608,
-    "accuracy": 0.608,
-    "stderr": 0.208,
-    "input_tokens": 281556,
-    "output_tokens": 712889,
-    "nominal_price": 5.95,
+    "raw_accuracy": 0.582,
+    "accuracy": 0.565,
+    "stderr": 0.048,
+    "input_tokens": 301858,
+    "output_tokens": 828702,
+    "nominal_price": 6.44,
     "input_rate": 0.60,
     "output_rate": 2.50,
-    "errors": 18
+    "errors": 3
   }
 ]
