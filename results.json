@@ -701,5 +701,51 @@
     "input_rate": 0.60,
     "output_rate": 2.50,
     "errors": 3
+  },
+  {
+    "name": "Kimi Linear 48B A3B Instruct (S)",
+    "company": "Moonshot",
+    "raw_accuracy": 0.146,
+    "accuracy": 0.143,
+    "stderr": 0.035,
+    "input_tokens": 50315,
+    "output_tokens": 467607,
+    "nominal_price": 0.362,
+    "input_rate": 0.30,
+    "output_rate": 0.60,
+    "errors": 2
+  },
+  {
+    "name": "GPT 5.1 Chat Minimal (R)",
+    "company": "OpenAI",
+    "accuracy": 0.567,
+    "stderr": 0.049,
+    "input_tokens": 36703,
+    "output_tokens": 11820,
+    "nominal_price": 0.152,
+    "input_rate": 1.25,
+    "output_rate": 10.0
+  },
+  {
+    "name": "GPT 5.1 High (R)",
+    "company": "OpenAI",
+    "accuracy": 0.792,
+    "stderr": 0.037,
+    "input_tokens": 177616,
+    "output_tokens": 435746,
+    "nominal_price": 4.52,
+    "input_rate": 1.25,
+    "output_rate": 10.0
+  },
+  {
+    "name": "Sherlock Think Alpha (R)",
+    "company": "Stealth",
+    "accuracy": 0.447,
+    "stderr": 0.048,
+    "input_tokens": 113808,
+    "output_tokens": 666413,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0
   }
 ]
