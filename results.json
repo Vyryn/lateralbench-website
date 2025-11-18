@@ -727,7 +727,7 @@
     "output_rate": 10.0
   },
   {
-    "name": "GPT 5.1 High (R)",
+    "name": "GPT 5.1 (R)",
     "company": "OpenAI",
     "accuracy": 0.792,
     "stderr": 0.037,
@@ -747,5 +747,16 @@
     "nominal_price": "",
     "input_rate": 0,
     "output_rate": 0
+  },
+  {
+    "name": "Gemini 3 Pro Preview (R)",
+    "company": "Google",
+    "accuracy": 0.812,
+    "stderr": 0.037,
+    "input_tokens": 189878,
+    "output_tokens": 444067,
+    "nominal_price": 5.73,
+    "input_rate": 2.00,
+    "output_rate": 12.00
   }
 ]
