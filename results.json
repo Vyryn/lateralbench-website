@@ -780,5 +780,16 @@
     "nominal_price": 1.37,
     "input_rate": 5.00,
     "output_rate": 25.00
+  },
+  {
+    "name": "Grok 4.1 Fast (R)",
+    "company": "xAI",
+    "accuracy": 0.498,
+    "stderr": 0.048,
+    "input_tokens": 101255,
+    "output_tokens": 761754,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0
   }
 ]
