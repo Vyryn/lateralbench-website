@@ -769,5 +769,16 @@
     "nominal_price": 5.80,
     "input_rate": 5.00,
     "output_rate": 25.00
+  },
+  {
+    "name": "Claude Opus 4.5 (S)",
+    "company": "Anthropic",
+    "accuracy": 0.667,
+    "stderr": 0.047,
+    "input_tokens": 58704,
+    "output_tokens": 42826,
+    "nominal_price": 1.37,
+    "input_rate": 5.00,
+    "output_rate": 25.00
   }
 ]
