@@ -791,5 +791,27 @@
     "nominal_price": "",
     "input_rate": 0,
     "output_rate": 0
+  },
+  {
+    "name": "Deepseek V3.2 (R)",
+    "company": "DeepSeek",
+    "accuracy": 0.507,
+    "stderr": 0.044,
+    "input_tokens": 1015119,
+    "output_tokens": 487000,
+    "nominal_price": 0.427,
+    "input_rate": 0.27,
+    "output_rate": 0.40
+  },
+  {
+    "name": "Deepseek V3.2 Speciale (R)",
+    "company": "DeepSeek",
+    "accuracy": 0.538,
+    "stderr": 0.048,
+    "input_tokens": 567681,
+    "output_tokens": 893205,
+    "nominal_price": 0.554,
+    "input_rate": 0.27,
+    "output_rate": 0.41
   }
 ]
