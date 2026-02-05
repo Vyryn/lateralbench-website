@@ -25,14 +25,14 @@
     "name": "GPT-5 (R)",
     "company": "OpenAI",
     "raw_accuracy": 0.801,
-    "accuracy": 0.763,
+    "accuracy": 0.7609,
     "stderr": 0.04,
     "input_tokens": 39299,
     "output_tokens": 231127,
     "nominal_price": 3.17,
     "input_rate": 1.25,
     "output_rate": 10,
-    "errors": 4
+    "errors": 5
   },
   {
     "name": "Claude Sonnet 4 (S)",
@@ -729,13 +729,15 @@
   {
     "name": "GPT 5.1 (R)",
     "company": "OpenAI",
-    "accuracy": 0.792,
+    "raw_accuracy": 0.792,
+    "accuracy": 0.7682,
     "stderr": 0.037,
     "input_tokens": 177616,
     "output_tokens": 435746,
     "nominal_price": 4.52,
     "input_rate": 1.25,
-    "output_rate": 10.0
+    "output_rate": 10.0,
+    "errors": 3
   },
   {
     "name": "Sherlock Think Alpha (R)",
@@ -791,5 +793,49 @@
     "nominal_price": "",
     "input_rate": 0,
     "output_rate": 0
+  },
+  {
+    "name": "Deepseek V3.2 (R)",
+    "company": "DeepSeek",
+    "accuracy": 0.507,
+    "stderr": 0.044,
+    "input_tokens": 1015119,
+    "output_tokens": 487000,
+    "nominal_price": 0.427,
+    "input_rate": 0.27,
+    "output_rate": 0.40
+  },
+  {
+    "name": "Deepseek V3.2 Speciale (R)",
+    "company": "DeepSeek",
+    "accuracy": 0.538,
+    "stderr": 0.048,
+    "input_tokens": 567681,
+    "output_tokens": 893205,
+    "nominal_price": 0.554,
+    "input_rate": 0.27,
+    "output_rate": 0.41
+  },
+  {
+    "name": "GPT 5.2 High (R)",
+    "company": "OpenAI",
+    "accuracy": 0.703,
+    "stderr": 0.045,
+    "input_tokens": 63917,
+    "output_tokens": 376047,
+    "nominal_price": 5.417,
+    "input_rate": 1.75,
+    "output_rate": 14
+  },
+  {
+    "name": "Gemini 3 Flash Preview (R)",
+    "company": "Google",
+    "accuracy": 0.715,
+    "stderr": 0.045,
+    "input_tokens": 82021,
+    "output_tokens": 604517,
+    "nominal_price": 1.86,
+    "input_rate": 0.50,
+    "output_rate": 3.00
   }
 ]
