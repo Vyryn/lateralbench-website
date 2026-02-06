@@ -95,7 +95,7 @@
   },
   {
     "name": "Kimi K2 0905 (S)",
-    "company": "Moonshot",
+    "company": "MoonshotAI",
     "accuracy": 0.412,
     "stderr": 0.048,
     "input_tokens": 45591,
@@ -106,7 +106,7 @@
   },
   {
     "name": "Kimi K2 0711 (S)",
-    "company": "Moonshot",
+    "company": "MoonshotAI",
     "accuracy": 0.448,
     "stderr": 0.049,
     "input_tokens": 27793,
@@ -691,7 +691,7 @@
   },
   {
     "name": "Kimi K2 Thinking (R)",
-    "company": "Moonshot",
+    "company": "MoonshotAI",
     "raw_accuracy": 0.582,
     "accuracy": 0.565,
     "stderr": 0.048,
@@ -704,7 +704,7 @@
   },
   {
     "name": "Kimi Linear 48B A3B Instruct (S)",
-    "company": "Moonshot",
+    "company": "MoonshotAI",
     "raw_accuracy": 0.146,
     "accuracy": 0.143,
     "stderr": 0.035,
@@ -848,5 +848,16 @@
     "nominal_price": "",
     "input_rate": 0.0,
     "output_rate": 0.0
+  },
+  {
+    "name": "Kimi K2.5 (R)",
+    "company": "MoonshotAI",
+    "accuracy": 0.615,
+    "stderr": 0.04789010755673592,
+    "input_tokens": 32208,
+    "output_tokens": 439441,
+    "nominal_price": "",
+    "input_rate": 0.44999999999999996,
+    "output_rate": 2.5
   }
 ]
