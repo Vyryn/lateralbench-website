@@ -856,8 +856,19 @@
     "stderr": 0.04789010755673592,
     "input_tokens": 32208,
     "output_tokens": 439441,
-    "nominal_price": "",
+    "nominal_price": 1.35,
     "input_rate": 0.44999999999999996,
     "output_rate": 2.5
+  },
+  {
+    "name": "Minimax M2.1 (R)",
+    "company": "Minimax",
+    "accuracy": 0.253,
+    "stderr": 0.043,
+    "input_tokens": 18567,
+    "output_tokens": 2651433,
+    "nominal_price": 2.78,
+    "input_rate": 0.3,
+    "output_rate": 1.2
   }
 ]
