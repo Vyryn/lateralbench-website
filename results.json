@@ -271,9 +271,9 @@
   {
     "name": "GPT 4.1 (S)",
     "company": "OpenAI",
-    "raw_accuracy": 0.530,
-    "accuracy": 0.480,
-    "stderr": 0.050,
+    "raw_accuracy": 0.53,
+    "accuracy": 0.48,
+    "stderr": 0.05,
     "input_tokens": 22094,
     "output_tokens": 13263,
     "nominal_price": 0.15,
@@ -289,8 +289,8 @@
     "input_tokens": 328286,
     "output_tokens": 538537,
     "nominal_price": 0.856,
-    "input_rate": 0.20,
-    "output_rate": 1.50
+    "input_rate": 0.2,
+    "output_rate": 1.5
   },
   {
     "name": "Sonoma Sky Alpha",
@@ -308,7 +308,7 @@
   {
     "name": "Sonoma Dusk Alpha",
     "company": "xAI",
-    "accuracy": 0.260,
+    "accuracy": 0.26,
     "stderr": 0.044,
     "input_tokens": 22959,
     "output_tokens": 15531,
@@ -341,7 +341,7 @@
   {
     "name": "Qwen 3 1.7b Thinking (R)",
     "company": "Alibaba",
-    "accuracy": 0.070,
+    "accuracy": 0.07,
     "stderr": 0.026,
     "input_tokens": 22776,
     "output_tokens": 358419,
@@ -352,8 +352,8 @@
   {
     "name": "Gemma 3 4b (S)",
     "company": "Google",
-    "accuracy": 0.010,
-    "stderr": 0.010,
+    "accuracy": 0.01,
+    "stderr": 0.01,
     "input_tokens": 23254,
     "output_tokens": 8207,
     "nominal_price": "",
@@ -374,13 +374,13 @@
   {
     "name": "Arcee AFM 4.5b (S)",
     "company": "Arcee",
-    "accuracy": 0.090,
+    "accuracy": 0.09,
     "stderr": 0.029,
     "input_tokens": 50082,
     "output_tokens": 15390,
     "nominal_price": 0.0111,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "Grok 4 Fast (R)",
@@ -390,8 +390,8 @@
     "input_tokens": 157063,
     "output_tokens": 531372,
     "nominal_price": 0.297,
-    "input_rate": 0.20,
-    "output_rate": 0.50
+    "input_rate": 0.2,
+    "output_rate": 0.5
   },
   {
     "name": "Tongyi DeepResearch 30a3b (R)",
@@ -414,19 +414,19 @@
     "input_tokens": 139072,
     "output_tokens": 7808,
     "nominal_price": 0.0198,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "Gemini 2.5 Flash Lite (S)",
     "company": "Google",
-    "accuracy": 0.150,
+    "accuracy": 0.15,
     "stderr": 0.036,
     "input_tokens": 21839,
     "output_tokens": 36179,
     "nominal_price": 0.0166,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "GPT-5 Codex (R)",
@@ -449,8 +449,8 @@
     "input_tokens": 106978,
     "output_tokens": 36380,
     "nominal_price": 0.0252,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "Gemini 2.5 Flash Lite 09-2025 Preview (R)",
@@ -460,8 +460,8 @@
     "input_tokens": 41913,
     "output_tokens": 264210,
     "nominal_price": 0.11,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "Gemini 2.5 Flash 09-2025 Preview (S)",
@@ -471,19 +471,19 @@
     "input_tokens": 55651,
     "output_tokens": 73685,
     "nominal_price": 0.201,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "Gemini 2.5 Flash 09-2025 Preview (R)",
     "company": "Google",
-    "accuracy": 0.520,
+    "accuracy": 0.52,
     "stderr": 0.049,
     "input_tokens": 112480,
     "output_tokens": 293368,
     "nominal_price": 0.766,
-    "input_rate": 0.10,
-    "output_rate": 0.40
+    "input_rate": 0.1,
+    "output_rate": 0.4
   },
   {
     "name": "Qwen 3 Max (S)",
@@ -493,19 +493,19 @@
     "input_tokens": 24695,
     "output_tokens": 129421,
     "nominal_price": 0.806,
-    "input_rate": 1.20,
-    "output_rate": 6.00
+    "input_rate": 1.2,
+    "output_rate": 6.0
   },
   {
     "name": "DeepSeek v3.1 Terminus (R)",
     "company": "DeepSeek",
-    "accuracy": 0.510,
+    "accuracy": 0.51,
     "stderr": 0.044,
     "input_tokens": 118949,
     "output_tokens": 484781,
     "nominal_price": 0.558,
     "input_rate": 0.27,
-    "output_rate": 1.00
+    "output_rate": 1.0
   },
   {
     "name": "Claude Sonnet 4.5 (R)",
@@ -515,8 +515,8 @@
     "input_tokens": 79188,
     "output_tokens": 232076,
     "nominal_price": 3.71,
-    "input_rate": 3.00,
-    "output_rate": 15.00
+    "input_rate": 3.0,
+    "output_rate": 15.0
   },
   {
     "name": "Claude Sonnet 4.5 (S)",
@@ -526,8 +526,8 @@
     "input_tokens": 110286,
     "output_tokens": 52010,
     "nominal_price": 1.11,
-    "input_rate": 3.00,
-    "output_rate": 15.00
+    "input_rate": 3.0,
+    "output_rate": 15.0
   },
   {
     "name": "DeepSeek V3.2 Exp (S)",
@@ -550,30 +550,30 @@
     "input_tokens": 292910,
     "output_tokens": 42573,
     "nominal_price": 0.404,
-    "input_rate": 0.80,
-    "output_rate": 4.00
+    "input_rate": 0.8,
+    "output_rate": 4.0
   },
   {
     "name": "Claude Opus 4.1 (R)",
     "company": "Anthropic",
-    "accuracy": 0.630,
+    "accuracy": 0.63,
     "stderr": 0.044,
     "input_tokens": 254670,
     "output_tokens": 175897,
     "nominal_price": 17.0,
-    "input_rate": 0.80,
-    "output_rate": 4.00
+    "input_rate": 0.8,
+    "output_rate": 4.0
   },
   {
     "name": "GLM 4.6 (R)",
     "company": "Z.ai",
-    "accuracy": 0.510,
-    "stderr": 0.050,
+    "accuracy": 0.51,
+    "stderr": 0.05,
     "input_tokens": 23101,
     "output_tokens": 241942,
     "nominal_price": 0.563,
-    "input_rate": 0.60,
-    "output_rate": 2.10
+    "input_rate": 0.6,
+    "output_rate": 2.1
   },
   {
     "name": "Gemma 3 12b it (S)",
@@ -594,8 +594,8 @@
     "input_tokens": 44715,
     "output_tokens": 24457,
     "nominal_price": 0.575,
-    "input_rate": 0.40,
-    "output_rate": 1.60
+    "input_rate": 0.4,
+    "output_rate": 1.6
   },
   {
     "name": "Ernie 4.5 21a3b (R)",
@@ -616,8 +616,8 @@
     "input_tokens": 87653,
     "output_tokens": 581326,
     "nominal_price": 2.99,
-    "input_rate": 1.00,
-    "output_rate": 5.00
+    "input_rate": 1.0,
+    "output_rate": 5.0
   },
   {
     "name": "Ling 1T (S)",
@@ -635,7 +635,7 @@
     "company": "Cloaked",
     "raw_accuracy": 0.199,
     "accuracy": 0.193,
-    "stderr": 0.040,
+    "stderr": 0.04,
     "input_tokens": 39429,
     "output_tokens": 598050,
     "nominal_price": "",
@@ -670,13 +670,13 @@
   {
     "name": "Nova Premier 1.0 (S)",
     "company": "Amazon",
-    "accuracy": 0.310,
+    "accuracy": 0.31,
     "stderr": 0.046,
     "input_tokens": 27863,
     "output_tokens": 35277,
     "nominal_price": 0.511,
-    "input_rate": 2.50,
-    "output_rate": 12.50
+    "input_rate": 2.5,
+    "output_rate": 12.5
   },
   {
     "name": "Polaris Alpha (S)",
@@ -698,8 +698,8 @@
     "input_tokens": 301858,
     "output_tokens": 828702,
     "nominal_price": 6.44,
-    "input_rate": 0.60,
-    "output_rate": 2.50,
+    "input_rate": 0.6,
+    "output_rate": 2.5,
     "errors": 3
   },
   {
@@ -711,8 +711,8 @@
     "input_tokens": 50315,
     "output_tokens": 467607,
     "nominal_price": 0.362,
-    "input_rate": 0.30,
-    "output_rate": 0.60,
+    "input_rate": 0.3,
+    "output_rate": 0.6,
     "errors": 2
   },
   {
@@ -758,8 +758,8 @@
     "input_tokens": 189878,
     "output_tokens": 444067,
     "nominal_price": 5.73,
-    "input_rate": 2.00,
-    "output_rate": 12.00
+    "input_rate": 2.0,
+    "output_rate": 12.0
   },
   {
     "name": "Claude Opus 4.5 (R)",
@@ -768,9 +768,9 @@
     "stderr": 0.048,
     "input_tokens": 41124,
     "output_tokens": 223928,
-    "nominal_price": 5.80,
-    "input_rate": 5.00,
-    "output_rate": 25.00
+    "nominal_price": 5.8,
+    "input_rate": 5.0,
+    "output_rate": 25.0
   },
   {
     "name": "Claude Opus 4.5 (S)",
@@ -780,8 +780,8 @@
     "input_tokens": 58704,
     "output_tokens": 42826,
     "nominal_price": 1.37,
-    "input_rate": 5.00,
-    "output_rate": 25.00
+    "input_rate": 5.0,
+    "output_rate": 25.0
   },
   {
     "name": "Grok 4.1 Fast (R)",
@@ -803,7 +803,7 @@
     "output_tokens": 487000,
     "nominal_price": 0.427,
     "input_rate": 0.27,
-    "output_rate": 0.40
+    "output_rate": 0.4
   },
   {
     "name": "Deepseek V3.2 Speciale (R)",
@@ -835,7 +835,18 @@
     "input_tokens": 82021,
     "output_tokens": 604517,
     "nominal_price": 1.86,
-    "input_rate": 0.50,
-    "output_rate": 3.00
+    "input_rate": 0.5,
+    "output_rate": 3.0
+  },
+  {
+    "name": "LFM2.5-1.2B-Thinking (R)",
+    "company": "LiquidAI",
+    "accuracy": 0.11,
+    "stderr": 0.031446603773522014,
+    "input_tokens": 93885,
+    "output_tokens": 301971,
+    "nominal_price": "",
+    "input_rate": 0.0,
+    "output_rate": 0.0
   }
 ]
