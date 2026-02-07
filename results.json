@@ -872,7 +872,7 @@
     "output_rate": 1.2
   },
   {
-    "name": "Trinity Large Preview (free)",
+    "name": "Trinity Large Preview (S)",
     "company": "Arcee AI",
     "accuracy": 0.10666666666666666,
     "stderr": 0.019465356719912574,
@@ -883,7 +883,7 @@
     "output_rate": 0.0
   },
   {
-    "name": "GLM 4.7",
+    "name": "GLM 4.7 (R)",
     "company": "Z.AI",
     "accuracy": 0.49833333333333335,
     "stderr": 0.05011182780736786,
@@ -894,13 +894,24 @@
     "output_rate": 1.5
   },
   {
-    "name": "Claude Opus 4.6",
+    "name": "Claude Opus 4.6 (R)",
     "company": "Anthropic",
     "accuracy": 0.81,
     "stderr": 0.039427724440366255,
     "input_tokens": 88158,
     "output_tokens": 337300,
-    "nominal_price": "",
+    "nominal_price": 8.87,
+    "input_rate": 5.0,
+    "output_rate": 25.0
+  },
+  {
+    "name": "Claude Opus 4.6 (S) *Altered Prompt",
+    "company": "Anthropic",
+    "accuracy": 0.7733333333333333,
+    "stderr": 0.04044644239709308,
+    "input_tokens": 102920,
+    "output_tokens": 50788,
+    "nominal_price": 1.78,
     "input_rate": 5.0,
     "output_rate": 25.0
   }
