@@ -1,0 +1,1 @@
+LateralBench is a multi-turn lateral thinking test that measures lateral thinking, self-awareness, linking disparate subjects and strategic thinking. This public repo is the assembled frontend only. View lateralbench at https://lateralbench.org/
