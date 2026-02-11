@@ -925,5 +925,38 @@
     "nominal_price": 1.71,
     "input_rate": 5.0,
     "output_rate": 25.0
+  },
+  {
+    "name": "Nanbeige4.1 3B (R)",
+    "company": "Nanbeige",
+    "accuracy": 0.0,
+    "stderr": 0.0,
+    "input_tokens": 24005,
+    "output_tokens": 1589836,
+    "nominal_price": "",
+    "input_rate": 0,
+    "output_rate": 0
+  },
+  {
+    "name": "GLM 5 (R)",
+    "company": "Z.ai",
+    "accuracy": 0.562,
+    "stderr": 0.05,
+    "input_tokens": 46507,
+    "output_tokens": 313047,
+    "nominal_price": 1.03,
+    "input_rate": 1.0,
+    "output_rate": 3.1999999999999997
+  },
+  {
+    "name": "Step 3.5 Flash (R)",
+    "company": "StepFun",
+    "accuracy": 0.16,
+    "stderr": 0.036845294917747066,
+    "input_tokens": 23038,
+    "output_tokens": 1409225,
+    "nominal_price": 0.425,
+    "input_rate": 0.09999999999999999,
+    "output_rate": 0.3
   }
 ]
