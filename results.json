@@ -373,7 +373,7 @@
   },
   {
     "name": "Arcee AFM 4.5b (S)",
-    "company": "Arcee",
+    "company": "Arcee AI",
     "accuracy": 0.09,
     "stderr": 0.029,
     "input_tokens": 50082,
@@ -632,7 +632,7 @@
   },
   {
     "name": "Andromeda Alpha (R)",
-    "company": "Cloaked",
+    "company": "Stealth",
     "raw_accuracy": 0.199,
     "accuracy": 0.193,
     "stderr": 0.04,
