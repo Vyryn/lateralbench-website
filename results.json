@@ -961,7 +961,7 @@
   },
   {
     "name": "Qwen3.5 397B A17B (R)",
-    "company": "Qwen",
+    "company": "Alibaba",
     "accuracy": 0.23,
     "stderr": 0.04229525846816507,
     "input_tokens": 25181,
