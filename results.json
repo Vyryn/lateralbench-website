@@ -949,14 +949,25 @@
     "output_rate": 0.3
   },
   {
-    "name": "MiniMax M2.5",
+    "name": "MiniMax M2.5 (R)",
     "company": "MiniMax",
     "accuracy": 0.18333333333333332,
     "stderr": 0.03696541897200049,
     "input_tokens": 48342,
     "output_tokens": 1239423,
-    "nominal_price": "",
+    "nominal_price": 1.5,
     "input_rate": 0.3,
     "output_rate": 1.2
+  },
+  {
+    "name": "Qwen3.5 397B A17B (R)",
+    "company": "Qwen",
+    "accuracy": 0.23,
+    "stderr": 0.04229525846816507,
+    "input_tokens": 25181,
+    "output_tokens": 696839,
+    "nominal_price": 2.52,
+    "input_rate": 0.6,
+    "output_rate": 3.5999999999999996
   }
 ]
