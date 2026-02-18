@@ -969,5 +969,27 @@
     "nominal_price": 2.52,
     "input_rate": 0.6,
     "output_rate": 3.5999999999999996
+  },
+  {
+    "name": "Claude Sonnet 4.6 (S)",
+    "company": "Anthropic",
+    "accuracy": 0.69,
+    "stderr": 0.0445717872647884,
+    "input_tokens": 115514,
+    "output_tokens": 48469,
+    "nominal_price": 1.07,
+    "input_rate": 3.0,
+    "output_rate": 15.0
+  },
+  {
+    "name": "Claude Sonnet 4.6 (R)",
+    "company": "Anthropic",
+    "accuracy": 0.64,
+    "stderr": 0.04824181513244218,
+    "input_tokens": 189450,
+    "output_tokens": 483384,
+    "nominal_price": 7.67,
+    "input_rate": 3.0,
+    "output_rate": 15.0
   }
 ]
