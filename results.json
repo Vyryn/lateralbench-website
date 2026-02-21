@@ -991,5 +991,16 @@
     "nominal_price": 7.67,
     "input_rate": 3.0,
     "output_rate": 15.0
+  },
+  {
+    "name": "Gemini 3.1 Pro Preview (R)",
+    "company": "Google",
+    "accuracy": 0.76,
+    "stderr": 0.04292346959909278,
+    "input_tokens": 22042,
+    "output_tokens": 238849,
+    "nominal_price": 2.92,
+    "input_rate": 2.0,
+    "output_rate": 12.0
   }
 ]
