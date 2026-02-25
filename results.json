@@ -916,7 +916,14 @@
     "output_tokens": 337300,
     "nominal_price": 8.87,
     "input_rate": 5.0,
-    "output_rate": 25.0
+    "output_rate": 25.0,
+    "hard_accuracy": 0.10833333333333335,
+    "hard_stderr": 0.06869182812723788,
+    "hard_total_hints_used": 32,
+    "hard_input_tokens": 800361,
+    "hard_output_tokens": 605133,
+    "hard_nominal_price": 19.13013,
+    "openrouter_slug": "anthropic/claude-opus-4.6"
   },
   {
     "name": "Nanbeige4.1 3B (R)",
