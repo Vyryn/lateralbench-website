@@ -865,7 +865,14 @@
     "output_tokens": 439441,
     "nominal_price": 1.35,
     "input_rate": 0.44999999999999996,
-    "output_rate": 2.5
+    "output_rate": 2.5,
+    "hard_accuracy": 0.0,
+    "hard_stderr": 0.0,
+    "hard_total_hints_used": 34,
+    "hard_input_tokens": 47147,
+    "hard_output_tokens": 370875,
+    "hard_nominal_price": 0.837141,
+    "openrouter_slug": "moonshotai/kimi-k2.5"
   },
   {
     "name": "Minimax M2.1 (R)",
