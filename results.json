@@ -913,7 +913,13 @@
     "output_tokens": 49373,
     "nominal_price": 1.71,
     "input_rate": 5.0,
-    "output_rate": 25.0
+    "output_rate": 25.0,
+    "hard_accuracy": 0.05,
+    "hard_stderr": 0.04999999999999999,
+    "hard_input_tokens": 74041,
+    "hard_output_tokens": 29047,
+    "hard_nominal_price": 1.09638,
+    "openrouter_slug": "anthropic/claude-opus-4.6"
   },
   {
     "name": "Nanbeige4.1 3B (R)",
@@ -1002,5 +1008,39 @@
     "nominal_price": 2.92,
     "input_rate": 2.0,
     "output_rate": 12.0
+  },
+  {
+    "name": "GPT-5.3-Codex (S)",
+    "company": "OpenAI",
+    "accuracy": 0.72,
+    "stderr": 0.04512608598542129,
+    "input_tokens": 21994,
+    "output_tokens": 109628,
+    "nominal_price": 1.573281,
+    "input_rate": 1.75,
+    "output_rate": 14.0,
+    "openrouter_slug": "openai/gpt-5.3-codex",
+    "hard_accuracy": 0.0,
+    "hard_stderr": 0.0,
+    "hard_input_tokens": 4836,
+    "hard_output_tokens": 37706,
+    "hard_nominal_price": 0.536347
+  },
+  {
+    "name": "GPT-5.3-Codex (R)",
+    "company": "OpenAI",
+    "accuracy": 0.75,
+    "stderr": 0.04351941398892446,
+    "input_tokens": 21994,
+    "output_tokens": 649888,
+    "nominal_price": 9.136921,
+    "input_rate": 1.75,
+    "output_rate": 14.0,
+    "openrouter_slug": "openai/gpt-5.3-codex",
+    "hard_accuracy": 0.05,
+    "hard_stderr": 0.04999999999999999,
+    "hard_input_tokens": 4842,
+    "hard_output_tokens": 257507,
+    "hard_nominal_price": 3.613571
   }
 ]
