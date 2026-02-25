@@ -985,17 +985,6 @@
     "output_rate": 15.0
   },
   {
-    "name": "Gemini 3.1 Pro Preview (R)",
-    "company": "Google",
-    "accuracy": 0.76,
-    "stderr": 0.04292346959909278,
-    "input_tokens": 22042,
-    "output_tokens": 238849,
-    "nominal_price": 2.92,
-    "input_rate": 2.0,
-    "output_rate": 12.0
-  },
-  {
     "name": "GPT-5.3-Codex High (R)",
     "company": "OpenAI",
     "accuracy": 0.7383333333333334,
@@ -1072,7 +1061,7 @@
     "hard_nominal_price": 1.147495
   },
   {
-    "name": "Gemini 3.1 Pro Preview (S)",
+    "name": "Gemini 3.1 Pro Preview (R)",
     "company": "Google",
     "accuracy": 0.7666666666666666,
     "stderr": 0.04224348215419492,
