@@ -759,7 +759,14 @@
     "output_tokens": 444067,
     "nominal_price": 5.73,
     "input_rate": 2.0,
-    "output_rate": 12.0
+    "output_rate": 12.0,
+    "hard_accuracy": 0.18333333333333332,
+    "hard_stderr": 0.07732743474176994,
+    "hard_total_hints_used": 47,
+    "hard_input_tokens": 51319,
+    "hard_output_tokens": 460753,
+    "hard_nominal_price": 5.631674,
+    "openrouter_slug": "google/gemini-3-pro-preview"
   },
   {
     "name": "Claude Opus 4.5 (R)",
