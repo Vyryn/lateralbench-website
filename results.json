@@ -8,7 +8,11 @@
     "output_tokens": 681360,
     "nominal_price": 0.293,
     "input_rate": 0.05,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "openai/gpt-5-nano",
+    "openrouter_slugs": [
+      "openai/gpt-5-nano"
+    ]
   },
   {
     "name": "GPT-5-mini (R)",
@@ -19,7 +23,11 @@
     "output_tokens": 351111,
     "nominal_price": 0.738,
     "input_rate": 0.25,
-    "output_rate": 2
+    "output_rate": 2,
+    "openrouter_slug": "openai/gpt-5-mini",
+    "openrouter_slugs": [
+      "openai/gpt-5-mini"
+    ]
   },
   {
     "name": "GPT-5 (R)",
@@ -32,7 +40,11 @@
     "nominal_price": 3.17,
     "input_rate": 1.25,
     "output_rate": 10,
-    "errors": 5
+    "errors": 5,
+    "openrouter_slug": "openai/gpt-5",
+    "openrouter_slugs": [
+      "openai/gpt-5"
+    ]
   },
   {
     "name": "Claude Sonnet 4 (S)",
@@ -43,7 +55,11 @@
     "output_tokens": 24532,
     "nominal_price": 0.437,
     "input_rate": 3,
-    "output_rate": 10
+    "output_rate": 10,
+    "openrouter_slug": "anthropic/claude-sonnet-4",
+    "openrouter_slugs": [
+      "anthropic/claude-sonnet-4"
+    ]
   },
   {
     "name": "Grok 4 (R)",
@@ -56,7 +72,11 @@
     "nominal_price": 12.556,
     "input_rate": 3,
     "output_rate": 15,
-    "errors": 4
+    "errors": 4,
+    "openrouter_slug": "x-ai/grok-4",
+    "openrouter_slugs": [
+      "x-ai/grok-4"
+    ]
   },
   {
     "name": "GPT-OSS-20b (R)",
@@ -69,7 +89,11 @@
     "nominal_price": 0.396,
     "input_rate": 0.04,
     "output_rate": 0.15,
-    "errors": 2
+    "errors": 2,
+    "openrouter_slug": "openai/gpt-oss-20b",
+    "openrouter_slugs": [
+      "openai/gpt-oss-20b"
+    ]
   },
   {
     "name": "Gemini 2.5 Pro (R)",
@@ -80,7 +104,11 @@
     "output_tokens": 544831,
     "nominal_price": 2.8,
     "input_rate": 1.25,
-    "output_rate": 10
+    "output_rate": 10,
+    "openrouter_slug": "google/gemini-2.5-pro",
+    "openrouter_slugs": [
+      "google/gemini-2.5-pro"
+    ]
   },
   {
     "name": "GPT OSS 120b (R)",
@@ -91,7 +119,11 @@
     "output_tokens": 192833,
     "nominal_price": 0.0851,
     "input_rate": 0.072,
-    "output_rate": 0.28
+    "output_rate": 0.28,
+    "openrouter_slug": "openai/gpt-oss-120b",
+    "openrouter_slugs": [
+      "openai/gpt-oss-120b"
+    ]
   },
   {
     "name": "Kimi K2 0905 (S)",
@@ -102,7 +134,11 @@
     "output_tokens": 8276,
     "nominal_price": 0.0654,
     "input_rate": 0.296,
-    "output_rate": 1.185
+    "output_rate": 1.185,
+    "openrouter_slug": "moonshotai/kimi-k2-0905",
+    "openrouter_slugs": [
+      "moonshotai/kimi-k2-0905"
+    ]
   },
   {
     "name": "Kimi K2 0711 (S)",
@@ -113,7 +149,11 @@
     "output_tokens": 18340,
     "nominal_price": 0.0613,
     "input_rate": 0.14,
-    "output_rate": 2.49
+    "output_rate": 2.49,
+    "openrouter_slug": "moonshotai/kimi-k2",
+    "openrouter_slugs": [
+      "moonshotai/kimi-k2"
+    ]
   },
   {
     "name": "DeepSeek v3.1 (S)",
@@ -124,7 +164,11 @@
     "output_tokens": 36155,
     "nominal_price": 0.0716,
     "input_rate": 0.2,
-    "output_rate": 0.8
+    "output_rate": 0.8,
+    "openrouter_slug": "deepseek/deepseek-chat-v3.1",
+    "openrouter_slugs": [
+      "deepseek/deepseek-chat-v3.1"
+    ]
   },
   {
     "name": "Qwen3 235a22b 2507 (S)",
@@ -135,7 +179,11 @@
     "output_tokens": 108119,
     "nominal_price": 0.172,
     "input_rate": 0.078,
-    "output_rate": 0.312
+    "output_rate": 0.312,
+    "openrouter_slug": "qwen/qwen3-235b-a22b-2507",
+    "openrouter_slugs": [
+      "qwen/qwen3-235b-a22b-2507"
+    ]
   },
   {
     "name": "GLM 4.5 (S)",
@@ -146,7 +194,11 @@
     "output_tokens": 22826,
     "nominal_price": 0.372,
     "input_rate": 0.33,
-    "output_rate": 1.32
+    "output_rate": 1.32,
+    "openrouter_slug": "z-ai/glm-4.5",
+    "openrouter_slugs": [
+      "z-ai/glm-4.5"
+    ]
   },
   {
     "name": "GPT 5 Chat (S)",
@@ -159,7 +211,11 @@
     "nominal_price": 0.315,
     "input_rate": 1.25,
     "output_rate": 10,
-    "errors": 10
+    "errors": 10,
+    "openrouter_slug": "openai/gpt-5-chat",
+    "openrouter_slugs": [
+      "openai/gpt-5-chat"
+    ]
   },
   {
     "name": "o3 (R)",
@@ -172,7 +228,11 @@
     "nominal_price": 2.83,
     "input_rate": 2,
     "output_rate": 8,
-    "errors": 1
+    "errors": 1,
+    "openrouter_slug": "openai/o3",
+    "openrouter_slugs": [
+      "openai/o3"
+    ]
   },
   {
     "name": "R1 0528 (R)",
@@ -185,7 +245,11 @@
     "nominal_price": 0.879,
     "input_rate": 0.2,
     "output_rate": 0.8,
-    "errors": 1
+    "errors": 1,
+    "openrouter_slug": "deepseek/deepseek-r1-0528",
+    "openrouter_slugs": [
+      "deepseek/deepseek-r1-0528"
+    ]
   },
   {
     "name": "Gemini 2.5 Flash (S)",
@@ -196,7 +260,11 @@
     "output_tokens": 55600,
     "nominal_price": 0.151,
     "input_rate": 0.3,
-    "output_rate": 2.5
+    "output_rate": 2.5,
+    "openrouter_slug": "google/gemini-2.5-flash",
+    "openrouter_slugs": [
+      "google/gemini-2.5-flash"
+    ]
   },
   {
     "name": "Llama 4 Maverick (S)",
@@ -207,7 +275,11 @@
     "output_tokens": 50665,
     "nominal_price": 0.191,
     "input_rate": 0.15,
-    "output_rate": 0.6
+    "output_rate": 0.6,
+    "openrouter_slug": "meta-llama/llama-4-maverick",
+    "openrouter_slugs": [
+      "meta-llama/llama-4-maverick"
+    ]
   },
   {
     "name": "Claude Opus 4.1 (S)",
@@ -218,7 +290,11 @@
     "output_tokens": 22238,
     "nominal_price": 2.01,
     "input_rate": 15,
-    "output_rate": 75
+    "output_rate": 75,
+    "openrouter_slug": "anthropic/claude-opus-4.1",
+    "openrouter_slugs": [
+      "anthropic/claude-opus-4.1"
+    ]
   },
   {
     "name": "Qwen 3 Max Preview (S)",
@@ -229,7 +305,11 @@
     "output_tokens": 43347,
     "nominal_price": 0.572,
     "input_rate": 1.2,
-    "output_rate": 6
+    "output_rate": 6,
+    "openrouter_slug": "qwen/qwen3-max",
+    "openrouter_slugs": [
+      "qwen/qwen3-max"
+    ]
   },
   {
     "name": "Qwen 3 30a3b 2507 (R)",
@@ -242,7 +322,11 @@
     "nominal_price": 0.231,
     "input_rate": 0.09,
     "output_rate": 0.359,
-    "errors": 2
+    "errors": 2,
+    "openrouter_slug": "qwen/qwen3-30b-a3b-thinking-2507",
+    "openrouter_slugs": [
+      "qwen/qwen3-30b-a3b-thinking-2507"
+    ]
   },
   {
     "name": "Qwen 3 Next 80a3b (S)",
@@ -253,7 +337,11 @@
     "output_tokens": 91491,
     "nominal_price": 0.205,
     "input_rate": 0.147,
-    "output_rate": 0.587
+    "output_rate": 0.587,
+    "openrouter_slug": "qwen/qwen3-next-80b-a3b-instruct",
+    "openrouter_slugs": [
+      "qwen/qwen3-next-80b-a3b-instruct"
+    ]
   },
   {
     "name": "Qwen 3 Next 80a3b (R)",
@@ -266,7 +354,11 @@
     "nominal_price": 3.36,
     "input_rate": 0.147,
     "output_rate": 0.587,
-    "errors": 1
+    "errors": 1,
+    "openrouter_slug": "qwen/qwen3-next-80b-a3b-thinking",
+    "openrouter_slugs": [
+      "qwen/qwen3-next-80b-a3b-thinking"
+    ]
   },
   {
     "name": "GPT 4.1 (S)",
@@ -279,7 +371,11 @@
     "nominal_price": 0.15,
     "input_rate": 2,
     "output_rate": 8,
-    "errors": 5
+    "errors": 5,
+    "openrouter_slug": "openai/gpt-4.1",
+    "openrouter_slugs": [
+      "openai/gpt-4.1"
+    ]
   },
   {
     "name": "Grok Code Fast 1 (R)",
@@ -290,7 +386,11 @@
     "output_tokens": 538537,
     "nominal_price": 0.856,
     "input_rate": 0.2,
-    "output_rate": 1.5
+    "output_rate": 1.5,
+    "openrouter_slug": "x-ai/grok-code-fast-1",
+    "openrouter_slugs": [
+      "x-ai/grok-code-fast-1"
+    ]
   },
   {
     "name": "Sonoma Sky Alpha",
@@ -325,7 +425,11 @@
     "output_tokens": 135117,
     "nominal_price": 0.173,
     "input_rate": 0.15,
-    "output_rate": 0.75
+    "output_rate": 0.75,
+    "openrouter_slug": "meituan/longcat-flash-chat",
+    "openrouter_slugs": [
+      "meituan/longcat-flash-chat"
+    ]
   },
   {
     "name": "Qwen 3 4b Thinking (R)",
@@ -336,7 +440,11 @@
     "output_tokens": 313411,
     "nominal_price": "",
     "input_rate": 0.0,
-    "output_rate": 0.0
+    "output_rate": 0.0,
+    "openrouter_slug": "qwen/qwen3-4b:free",
+    "openrouter_slugs": [
+      "qwen/qwen3-4b:free"
+    ]
   },
   {
     "name": "Qwen 3 1.7b Thinking (R)",
@@ -358,7 +466,11 @@
     "output_tokens": 8207,
     "nominal_price": "",
     "input_rate": 0.0,
-    "output_rate": 0.0
+    "output_rate": 0.0,
+    "openrouter_slug": "google/gemma-3-4b-it",
+    "openrouter_slugs": [
+      "google/gemma-3-4b-it"
+    ]
   },
   {
     "name": "Nemotron Nano 9b v2 (R)",
@@ -369,7 +481,11 @@
     "output_tokens": 392764,
     "nominal_price": 0.215,
     "input_rate": 0.04,
-    "output_rate": 0.16
+    "output_rate": 0.16,
+    "openrouter_slug": "nvidia/nemotron-nano-9b-v2",
+    "openrouter_slugs": [
+      "nvidia/nemotron-nano-9b-v2"
+    ]
   },
   {
     "name": "Arcee AFM 4.5b (S)",
@@ -391,7 +507,11 @@
     "output_tokens": 531372,
     "nominal_price": 0.297,
     "input_rate": 0.2,
-    "output_rate": 0.5
+    "output_rate": 0.5,
+    "openrouter_slug": "x-ai/grok-4-fast",
+    "openrouter_slugs": [
+      "x-ai/grok-4-fast"
+    ]
   },
   {
     "name": "Tongyi DeepResearch 30a3b (R)",
@@ -404,7 +524,11 @@
     "nominal_price": 0.247,
     "input_rate": 0.09,
     "output_rate": 0.45,
-    "errors": 3
+    "errors": 3,
+    "openrouter_slug": "alibaba/tongyi-deepresearch-30b-a3b",
+    "openrouter_slugs": [
+      "alibaba/tongyi-deepresearch-30b-a3b"
+    ]
   },
   {
     "name": "Gemini 2.0 Flash (S)",
@@ -415,7 +539,11 @@
     "output_tokens": 7808,
     "nominal_price": 0.0198,
     "input_rate": 0.1,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "google/gemini-2.0-flash-001",
+    "openrouter_slugs": [
+      "google/gemini-2.0-flash-001"
+    ]
   },
   {
     "name": "Gemini 2.5 Flash Lite (S)",
@@ -426,7 +554,11 @@
     "output_tokens": 36179,
     "nominal_price": 0.0166,
     "input_rate": 0.1,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "google/gemini-2.5-flash-lite",
+    "openrouter_slugs": [
+      "google/gemini-2.5-flash-lite"
+    ]
   },
   {
     "name": "GPT-5 Codex (R)",
@@ -439,7 +571,11 @@
     "nominal_price": 2.71,
     "input_rate": 1.25,
     "output_rate": 10.0,
-    "errors": 1
+    "errors": 1,
+    "openrouter_slug": "openai/gpt-5-codex",
+    "openrouter_slugs": [
+      "openai/gpt-5-codex"
+    ]
   },
   {
     "name": "Gemini 2.5 Flash Lite 09-2025 Preview (S)",
@@ -450,7 +586,11 @@
     "output_tokens": 36380,
     "nominal_price": 0.0252,
     "input_rate": 0.1,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "openrouter_slugs": [
+      "google/gemini-2.5-flash-lite-preview-09-2025"
+    ]
   },
   {
     "name": "Gemini 2.5 Flash Lite 09-2025 Preview (R)",
@@ -461,7 +601,11 @@
     "output_tokens": 264210,
     "nominal_price": 0.11,
     "input_rate": 0.1,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "openrouter_slugs": [
+      "google/gemini-2.5-flash-lite-preview-09-2025"
+    ]
   },
   {
     "name": "Gemini 2.5 Flash 09-2025 Preview (S)",
@@ -472,7 +616,11 @@
     "output_tokens": 73685,
     "nominal_price": 0.201,
     "input_rate": 0.1,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "openrouter_slugs": [
+      "google/gemini-2.5-flash-lite-preview-09-2025"
+    ]
   },
   {
     "name": "Gemini 2.5 Flash 09-2025 Preview (R)",
@@ -483,7 +631,11 @@
     "output_tokens": 293368,
     "nominal_price": 0.766,
     "input_rate": 0.1,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "openrouter_slugs": [
+      "google/gemini-2.5-flash-lite-preview-09-2025"
+    ]
   },
   {
     "name": "Qwen 3 Max (S)",
@@ -494,7 +646,11 @@
     "output_tokens": 129421,
     "nominal_price": 0.806,
     "input_rate": 1.2,
-    "output_rate": 6.0
+    "output_rate": 6.0,
+    "openrouter_slug": "qwen/qwen3-max",
+    "openrouter_slugs": [
+      "qwen/qwen3-max"
+    ]
   },
   {
     "name": "DeepSeek v3.1 Terminus (R)",
@@ -505,7 +661,11 @@
     "output_tokens": 484781,
     "nominal_price": 0.558,
     "input_rate": 0.27,
-    "output_rate": 1.0
+    "output_rate": 1.0,
+    "openrouter_slug": "deepseek/deepseek-v3.1-terminus",
+    "openrouter_slugs": [
+      "deepseek/deepseek-v3.1-terminus"
+    ]
   },
   {
     "name": "Claude Sonnet 4.5 (R)",
@@ -516,7 +676,11 @@
     "output_tokens": 232076,
     "nominal_price": 3.71,
     "input_rate": 3.0,
-    "output_rate": 15.0
+    "output_rate": 15.0,
+    "openrouter_slug": "anthropic/claude-sonnet-4.5",
+    "openrouter_slugs": [
+      "anthropic/claude-sonnet-4.5"
+    ]
   },
   {
     "name": "Claude Sonnet 4.5 (S)",
@@ -527,7 +691,11 @@
     "output_tokens": 52010,
     "nominal_price": 1.11,
     "input_rate": 3.0,
-    "output_rate": 15.0
+    "output_rate": 15.0,
+    "openrouter_slug": "anthropic/claude-sonnet-4.5",
+    "openrouter_slugs": [
+      "anthropic/claude-sonnet-4.5"
+    ]
   },
   {
     "name": "DeepSeek V3.2 Exp (S)",
@@ -540,7 +708,11 @@
     "nominal_price": 0.187,
     "input_rate": 0.27,
     "output_rate": 0.41,
-    "errors": 1
+    "errors": 1,
+    "openrouter_slug": "deepseek/deepseek-v3.2-exp",
+    "openrouter_slugs": [
+      "deepseek/deepseek-v3.2-exp"
+    ]
   },
   {
     "name": "Claude Haiku 3.5 (S)",
@@ -551,7 +723,11 @@
     "output_tokens": 42573,
     "nominal_price": 0.404,
     "input_rate": 0.8,
-    "output_rate": 4.0
+    "output_rate": 4.0,
+    "openrouter_slug": "anthropic/claude-3.5-haiku",
+    "openrouter_slugs": [
+      "anthropic/claude-3.5-haiku"
+    ]
   },
   {
     "name": "Claude Opus 4.1 (R)",
@@ -562,7 +738,11 @@
     "output_tokens": 175897,
     "nominal_price": 17.0,
     "input_rate": 0.8,
-    "output_rate": 4.0
+    "output_rate": 4.0,
+    "openrouter_slug": "anthropic/claude-opus-4.1",
+    "openrouter_slugs": [
+      "anthropic/claude-opus-4.1"
+    ]
   },
   {
     "name": "GLM 4.6 (R)",
@@ -573,7 +753,11 @@
     "output_tokens": 241942,
     "nominal_price": 0.563,
     "input_rate": 0.6,
-    "output_rate": 2.1
+    "output_rate": 2.1,
+    "openrouter_slug": "z-ai/glm-4.6",
+    "openrouter_slugs": [
+      "z-ai/glm-4.6"
+    ]
   },
   {
     "name": "Gemma 3 12b it (S)",
@@ -584,7 +768,11 @@
     "output_tokens": 8398,
     "nominal_price": 0.002406,
     "input_rate": 0.04,
-    "output_rate": 0.13
+    "output_rate": 0.13,
+    "openrouter_slug": "google/gemma-3-12b-it",
+    "openrouter_slugs": [
+      "google/gemma-3-12b-it"
+    ]
   },
   {
     "name": "GPT 4.1 mini (S)",
@@ -595,7 +783,11 @@
     "output_tokens": 24457,
     "nominal_price": 0.575,
     "input_rate": 0.4,
-    "output_rate": 1.6
+    "output_rate": 1.6,
+    "openrouter_slug": "openai/gpt-4.1-mini",
+    "openrouter_slugs": [
+      "openai/gpt-4.1-mini"
+    ]
   },
   {
     "name": "Ernie 4.5 21a3b (R)",
@@ -606,7 +798,11 @@
     "output_tokens": 564259,
     "nominal_price": 0.163,
     "input_rate": 0.07,
-    "output_rate": 0.28
+    "output_rate": 0.28,
+    "openrouter_slug": "baidu/ernie-4.5-21b-a3b",
+    "openrouter_slugs": [
+      "baidu/ernie-4.5-21b-a3b"
+    ]
   },
   {
     "name": "Claude Haiku 4.5 (R)",
@@ -617,7 +813,11 @@
     "output_tokens": 581326,
     "nominal_price": 2.99,
     "input_rate": 1.0,
-    "output_rate": 5.0
+    "output_rate": 5.0,
+    "openrouter_slug": "anthropic/claude-haiku-4.5",
+    "openrouter_slugs": [
+      "anthropic/claude-haiku-4.5"
+    ]
   },
   {
     "name": "Ling 1T (S)",
@@ -654,7 +854,11 @@
     "nominal_price": "",
     "input_rate": 0,
     "output_rate": 0,
-    "errors": 1
+    "errors": 1,
+    "openrouter_slug": "minimax/minimax-m2",
+    "openrouter_slugs": [
+      "minimax/minimax-m2"
+    ]
   },
   {
     "name": "Granite 4.0 Micro (S)",
@@ -665,7 +869,11 @@
     "output_tokens": 31583,
     "nominal_price": 0.00918,
     "input_rate": 0.017,
-    "output_rate": 0.11
+    "output_rate": 0.11,
+    "openrouter_slug": "ibm-granite/granite-4.0-h-micro",
+    "openrouter_slugs": [
+      "ibm-granite/granite-4.0-h-micro"
+    ]
   },
   {
     "name": "Nova Premier 1.0 (S)",
@@ -676,7 +884,11 @@
     "output_tokens": 35277,
     "nominal_price": 0.511,
     "input_rate": 2.5,
-    "output_rate": 12.5
+    "output_rate": 12.5,
+    "openrouter_slug": "amazon/nova-premier-v1",
+    "openrouter_slugs": [
+      "amazon/nova-premier-v1"
+    ]
   },
   {
     "name": "Polaris Alpha (S)",
@@ -700,7 +912,11 @@
     "nominal_price": 6.44,
     "input_rate": 0.6,
     "output_rate": 2.5,
-    "errors": 3
+    "errors": 3,
+    "openrouter_slug": "moonshotai/kimi-k2-thinking",
+    "openrouter_slugs": [
+      "moonshotai/kimi-k2-thinking"
+    ]
   },
   {
     "name": "Kimi Linear 48B A3B Instruct (S)",
@@ -724,7 +940,11 @@
     "output_tokens": 11820,
     "nominal_price": 0.152,
     "input_rate": 1.25,
-    "output_rate": 10.0
+    "output_rate": 10.0,
+    "openrouter_slug": "openai/gpt-5.1-chat",
+    "openrouter_slugs": [
+      "openai/gpt-5.1-chat"
+    ]
   },
   {
     "name": "GPT 5.1 (R)",
@@ -737,7 +957,11 @@
     "nominal_price": 4.52,
     "input_rate": 1.25,
     "output_rate": 10.0,
-    "errors": 3
+    "errors": 3,
+    "openrouter_slug": "openai/gpt-5.1",
+    "openrouter_slugs": [
+      "openai/gpt-5.1"
+    ]
   },
   {
     "name": "Sherlock Think Alpha (R)",
@@ -766,7 +990,10 @@
     "hard_input_tokens": 51319,
     "hard_output_tokens": 460753,
     "hard_nominal_price": 5.631674,
-    "openrouter_slug": "google/gemini-3-pro-preview"
+    "openrouter_slug": "google/gemini-3-pro-preview",
+    "openrouter_slugs": [
+      "google/gemini-3-pro-preview"
+    ]
   },
   {
     "name": "Claude Opus 4.5 (R)",
@@ -777,7 +1004,11 @@
     "output_tokens": 223928,
     "nominal_price": 5.8,
     "input_rate": 5.0,
-    "output_rate": 25.0
+    "output_rate": 25.0,
+    "openrouter_slug": "anthropic/claude-opus-4.5",
+    "openrouter_slugs": [
+      "anthropic/claude-opus-4.5"
+    ]
   },
   {
     "name": "Claude Opus 4.5 (S)",
@@ -788,7 +1019,11 @@
     "output_tokens": 42826,
     "nominal_price": 1.37,
     "input_rate": 5.0,
-    "output_rate": 25.0
+    "output_rate": 25.0,
+    "openrouter_slug": "anthropic/claude-opus-4.5",
+    "openrouter_slugs": [
+      "anthropic/claude-opus-4.5"
+    ]
   },
   {
     "name": "Grok 4.1 Fast (R)",
@@ -799,7 +1034,11 @@
     "output_tokens": 761754,
     "nominal_price": "",
     "input_rate": 0,
-    "output_rate": 0
+    "output_rate": 0,
+    "openrouter_slug": "x-ai/grok-4.1-fast",
+    "openrouter_slugs": [
+      "x-ai/grok-4.1-fast"
+    ]
   },
   {
     "name": "Deepseek V3.2 (R)",
@@ -810,7 +1049,11 @@
     "output_tokens": 487000,
     "nominal_price": 0.427,
     "input_rate": 0.27,
-    "output_rate": 0.4
+    "output_rate": 0.4,
+    "openrouter_slug": "deepseek/deepseek-v3.2",
+    "openrouter_slugs": [
+      "deepseek/deepseek-v3.2"
+    ]
   },
   {
     "name": "Deepseek V3.2 Speciale (R)",
@@ -821,7 +1064,11 @@
     "output_tokens": 893205,
     "nominal_price": 0.554,
     "input_rate": 0.27,
-    "output_rate": 0.41
+    "output_rate": 0.41,
+    "openrouter_slug": "deepseek/deepseek-v3.2-speciale",
+    "openrouter_slugs": [
+      "deepseek/deepseek-v3.2-speciale"
+    ]
   },
   {
     "name": "GPT 5.2 High (R)",
@@ -832,7 +1079,11 @@
     "output_tokens": 376047,
     "nominal_price": 5.417,
     "input_rate": 1.75,
-    "output_rate": 14
+    "output_rate": 14,
+    "openrouter_slug": "openai/gpt-5.2",
+    "openrouter_slugs": [
+      "openai/gpt-5.2"
+    ]
   },
   {
     "name": "Gemini 3 Flash Preview (R)",
@@ -850,7 +1101,10 @@
     "hard_input_tokens": 11704,
     "hard_output_tokens": 543460,
     "hard_nominal_price": 1.636232,
-    "openrouter_slug": "google/gemini-3-flash-preview"
+    "openrouter_slug": "google/gemini-3-flash-preview",
+    "openrouter_slugs": [
+      "google/gemini-3-flash-preview"
+    ]
   },
   {
     "name": "LFM2.5-1.2B-Thinking (R)",
@@ -861,7 +1115,11 @@
     "output_tokens": 301971,
     "nominal_price": "",
     "input_rate": 0.0,
-    "output_rate": 0.0
+    "output_rate": 0.0,
+    "openrouter_slug": "liquid/lfm-2.5-1.2b-thinking:free",
+    "openrouter_slugs": [
+      "liquid/lfm-2.5-1.2b-thinking:free"
+    ]
   },
   {
     "name": "Kimi K2.5 (R)",
@@ -879,7 +1137,10 @@
     "hard_input_tokens": 47147,
     "hard_output_tokens": 370875,
     "hard_nominal_price": 0.837141,
-    "openrouter_slug": "moonshotai/kimi-k2.5"
+    "openrouter_slug": "moonshotai/kimi-k2.5",
+    "openrouter_slugs": [
+      "moonshotai/kimi-k2.5"
+    ]
   },
   {
     "name": "Minimax M2.1 (R)",
@@ -890,7 +1151,11 @@
     "output_tokens": 2651433,
     "nominal_price": 2.78,
     "input_rate": 0.3,
-    "output_rate": 1.2
+    "output_rate": 1.2,
+    "openrouter_slug": "minimax/minimax-m2.1",
+    "openrouter_slugs": [
+      "minimax/minimax-m2.1"
+    ]
   },
   {
     "name": "Trinity Large Preview (S)",
@@ -901,7 +1166,11 @@
     "output_tokens": 28054,
     "nominal_price": "",
     "input_rate": 0.0,
-    "output_rate": 0.0
+    "output_rate": 0.0,
+    "openrouter_slug": "arcee-ai/trinity-large-preview:free",
+    "openrouter_slugs": [
+      "arcee-ai/trinity-large-preview:free"
+    ]
   },
   {
     "name": "GLM 4.7 (R)",
@@ -912,7 +1181,11 @@
     "output_tokens": 477300,
     "nominal_price": 1.07,
     "input_rate": 0.39999999999999997,
-    "output_rate": 1.5
+    "output_rate": 1.5,
+    "openrouter_slug": "z-ai/glm-4.7",
+    "openrouter_slugs": [
+      "z-ai/glm-4.7"
+    ]
   },
   {
     "name": "Claude Opus 4.6 (R)",
@@ -930,7 +1203,10 @@
     "hard_input_tokens": 800361,
     "hard_output_tokens": 605133,
     "hard_nominal_price": 19.13013,
-    "openrouter_slug": "anthropic/claude-opus-4.6"
+    "openrouter_slug": "anthropic/claude-opus-4.6",
+    "openrouter_slugs": [
+      "anthropic/claude-opus-4.6"
+    ]
   },
   {
     "name": "Nanbeige4.1 3B (R)",
@@ -952,7 +1228,11 @@
     "output_tokens": 313047,
     "nominal_price": 1.03,
     "input_rate": 1.0,
-    "output_rate": 3.1999999999999997
+    "output_rate": 3.1999999999999997,
+    "openrouter_slug": "z-ai/glm-5",
+    "openrouter_slugs": [
+      "z-ai/glm-5"
+    ]
   },
   {
     "name": "Step 3.5 Flash (R)",
@@ -963,7 +1243,11 @@
     "output_tokens": 1409225,
     "nominal_price": 0.425,
     "input_rate": 0.09999999999999999,
-    "output_rate": 0.3
+    "output_rate": 0.3,
+    "openrouter_slug": "stepfun/step-3.5-flash",
+    "openrouter_slugs": [
+      "stepfun/step-3.5-flash"
+    ]
   },
   {
     "name": "MiniMax M2.5 (R)",
@@ -974,7 +1258,11 @@
     "output_tokens": 1239423,
     "nominal_price": 1.5,
     "input_rate": 0.3,
-    "output_rate": 1.2
+    "output_rate": 1.2,
+    "openrouter_slug": "minimax/minimax-m2.5",
+    "openrouter_slugs": [
+      "minimax/minimax-m2.5"
+    ]
   },
   {
     "name": "Qwen3.5 397B A17B (R)",
@@ -985,7 +1273,11 @@
     "output_tokens": 696839,
     "nominal_price": 2.52,
     "input_rate": 0.6,
-    "output_rate": 3.5999999999999996
+    "output_rate": 3.5999999999999996,
+    "openrouter_slug": "qwen/qwen3.5-397b-a17b",
+    "openrouter_slugs": [
+      "qwen/qwen3.5-397b-a17b"
+    ]
   },
   {
     "name": "Claude Sonnet 4.6 (R)",
@@ -996,7 +1288,11 @@
     "output_tokens": 483384,
     "nominal_price": 7.67,
     "input_rate": 3.0,
-    "output_rate": 15.0
+    "output_rate": 15.0,
+    "openrouter_slug": "anthropic/claude-sonnet-4.6",
+    "openrouter_slugs": [
+      "anthropic/claude-sonnet-4.6"
+    ]
   },
   {
     "name": "GPT-5.3-Codex High (R)",
@@ -1015,7 +1311,10 @@
     "hard_total_hints_used": 33,
     "hard_input_tokens": 43449,
     "hard_output_tokens": 136921,
-    "hard_nominal_price": 1.99293
+    "hard_nominal_price": 1.99293,
+    "openrouter_slugs": [
+      "openai/gpt-5.3-codex"
+    ]
   },
   {
     "name": "GPT-5.2 (S)",
@@ -1034,7 +1333,10 @@
     "hard_total_hints_used": 18,
     "hard_input_tokens": 36601,
     "hard_output_tokens": 126548,
-    "hard_nominal_price": 1.835724
+    "hard_nominal_price": 1.835724,
+    "openrouter_slugs": [
+      "openai/gpt-5.2"
+    ]
   },
   {
     "name": "Claude Sonnet 4.6 (S)",
@@ -1053,7 +1355,10 @@
     "hard_total_hints_used": 43,
     "hard_input_tokens": 85908,
     "hard_output_tokens": 23073,
-    "hard_nominal_price": 0.603819
+    "hard_nominal_price": 0.603819,
+    "openrouter_slugs": [
+      "anthropic/claude-sonnet-4.6"
+    ]
   },
   {
     "name": "Claude Opus 4.6 (S)",
@@ -1072,7 +1377,10 @@
     "hard_total_hints_used": 34,
     "hard_input_tokens": 87194,
     "hard_output_tokens": 28461,
-    "hard_nominal_price": 1.147495
+    "hard_nominal_price": 1.147495,
+    "openrouter_slugs": [
+      "anthropic/claude-opus-4.6"
+    ]
   },
   {
     "name": "Gemini 3.1 Pro Preview (R)",
@@ -1091,6 +1399,9 @@
     "hard_total_hints_used": 28,
     "hard_input_tokens": 266471,
     "hard_output_tokens": 393091,
-    "hard_nominal_price": 5.250034
+    "hard_nominal_price": 5.250034,
+    "openrouter_slugs": [
+      "google/gemini-3.1-pro-preview"
+    ]
   }
 ]
