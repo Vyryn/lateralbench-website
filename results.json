@@ -54,7 +54,6 @@
   {
     "name": "Grok 4 (R)",
     "company": "xAI",
-    "raw_accuracy": 0.745,
     "accuracy": 0.7499999999999999,
     "stderr": 0.0319089614087,
     "input_tokens": 84653,
@@ -62,14 +61,12 @@
     "nominal_price": 12.556,
     "input_rate": 3,
     "output_rate": 15,
-    "errors": 4,
     "openrouter_slug": "x-ai/grok-4",
     "total_hints_used": 49
   },
   {
     "name": "GPT-OSS-20b (R)",
     "company": "OpenAI",
-    "raw_accuracy": 0.25,
     "accuracy": 0.17833333333333334,
     "stderr": 0.0298596793173,
     "input_tokens": 111581,
@@ -77,7 +74,6 @@
     "nominal_price": 0.396,
     "input_rate": 0.04,
     "output_rate": 0.15,
-    "errors": 2,
     "openrouter_slug": "openai/gpt-oss-20b",
     "total_hints_used": 13
   },
@@ -175,7 +171,6 @@
   {
     "name": "GPT 5 Chat (S)",
     "company": "OpenAI",
-    "raw_accuracy": 0.59,
     "accuracy": 0.55,
     "stderr": 0.04,
     "input_tokens": 22094,
@@ -183,7 +178,6 @@
     "nominal_price": 0.315,
     "input_rate": 1.25,
     "output_rate": 10,
-    "errors": 10,
     "openrouter_slug": "openai/gpt-5-chat",
     "total_hints_used": 0
   },
@@ -203,7 +197,6 @@
   {
     "name": "R1 0528 (R)",
     "company": "DeepSeek",
-    "raw_accuracy": 0.473,
     "accuracy": 0.42500000000000016,
     "stderr": 0.0384841856832,
     "input_tokens": 48855,
@@ -211,7 +204,6 @@
     "nominal_price": 0.879,
     "input_rate": 0.2,
     "output_rate": 0.8,
-    "errors": 1,
     "openrouter_slug": "deepseek/deepseek-r1-0528",
     "total_hints_used": 48
   },
@@ -270,7 +262,6 @@
   {
     "name": "Qwen 3 30a3b 2507 (R)",
     "company": "Alibaba",
-    "raw_accuracy": 0.327,
     "accuracy": 0.22833333333333336,
     "stderr": 0.0336165743953,
     "input_tokens": 33447,
@@ -278,7 +269,6 @@
     "nominal_price": 0.231,
     "input_rate": 0.09,
     "output_rate": 0.359,
-    "errors": 2,
     "openrouter_slug": "qwen/qwen3-30b-a3b-thinking-2507",
     "total_hints_used": 5
   },
@@ -298,7 +288,6 @@
   {
     "name": "Qwen 3 Next 80a3b (R)",
     "company": "Alibaba",
-    "raw_accuracy": 0.441,
     "accuracy": 0.3483333333333334,
     "stderr": 0.0381900263744,
     "input_tokens": 65677,
@@ -306,14 +295,12 @@
     "nominal_price": 3.36,
     "input_rate": 0.147,
     "output_rate": 0.587,
-    "errors": 1,
     "openrouter_slug": "qwen/qwen3-next-80b-a3b-thinking",
     "total_hints_used": 8
   },
   {
     "name": "GPT 4.1 (S)",
     "company": "OpenAI",
-    "raw_accuracy": 0.53,
     "accuracy": 0.55,
     "stderr": 0.04,
     "input_tokens": 22094,
@@ -321,7 +308,6 @@
     "nominal_price": 0.15,
     "input_rate": 2,
     "output_rate": 8,
-    "errors": 5,
     "openrouter_slug": "openai/gpt-4.1",
     "total_hints_used": 0
   },
@@ -458,7 +444,6 @@
   {
     "name": "Tongyi DeepResearch 30a3b (R)",
     "company": "Alibaba",
-    "raw_accuracy": 0.263,
     "accuracy": 0.23166666666666663,
     "stderr": 0.0332535071102,
     "input_tokens": 25654,
@@ -466,7 +451,6 @@
     "nominal_price": 0.247,
     "input_rate": 0.09,
     "output_rate": 0.45,
-    "errors": 3,
     "openrouter_slug": "alibaba/tongyi-deepresearch-30b-a3b",
     "total_hints_used": 23
   },
@@ -499,7 +483,6 @@
   {
     "name": "GPT-5 Codex (R)",
     "company": "OpenAI",
-    "raw_accuracy": 0.759,
     "accuracy": 0.6933333333333335,
     "stderr": 0.036291376015,
     "input_tokens": 37352,
@@ -507,7 +490,6 @@
     "nominal_price": 2.71,
     "input_rate": 1.25,
     "output_rate": 10,
-    "errors": 1,
     "openrouter_slug": "openai/gpt-5-codex",
     "total_hints_used": 21
   },
@@ -618,7 +600,6 @@
   {
     "name": "DeepSeek V3.2 Exp (S)",
     "company": "DeepSeek",
-    "raw_accuracy": 0.492,
     "accuracy": 0.4833333333333333,
     "stderr": 0.0374495545475,
     "input_tokens": 103287,
@@ -626,7 +607,6 @@
     "nominal_price": 0.187,
     "input_rate": 0.27,
     "output_rate": 0.41,
-    "errors": 1,
     "openrouter_slug": "deepseek/deepseek-v3.2-exp",
     "total_hints_used": 106
   },
@@ -803,7 +783,6 @@
   {
     "name": "Kimi K2 Thinking (R)",
     "company": "MoonshotAI",
-    "raw_accuracy": 0.582,
     "accuracy": 0.5366666666666667,
     "stderr": 0.0387726401042,
     "input_tokens": 301858,
@@ -811,7 +790,6 @@
     "nominal_price": 6.44,
     "input_rate": 0.6,
     "output_rate": 2.5,
-    "errors": 3,
     "openrouter_slug": "moonshotai/kimi-k2-thinking",
     "total_hints_used": 30
   },
