@@ -1711,7 +1711,7 @@
     "hard_nominal_price": 0.115654
   },
   {
-    "name": "GPT-5.5 (R)",
+    "name": "GPT-5.5 High (R)",
     "company": "OpenAI",
     "accuracy": 0.68,
     "stderr": 0.04609802662111895,
@@ -1728,5 +1728,43 @@
     "hard_input_tokens": 45953,
     "hard_output_tokens": 384290,
     "hard_nominal_price": 11.758465
+  },
+  {
+    "name": "GPT-5.5 None (S)",
+    "company": "OpenAI",
+    "accuracy": 0.52,
+    "stderr": 0.05021167315686782,
+    "total_hints_used": 4,
+    "input_tokens": 26582,
+    "output_tokens": 7673,
+    "nominal_price": 0.3631,
+    "input_rate": 5,
+    "output_rate": 30,
+    "openrouter_slug": "openai/gpt-5.5",
+    "hard_accuracy": 0.05,
+    "hard_stderr": 0.04999999999999999,
+    "hard_total_hints_used": 0,
+    "hard_input_tokens": 4842,
+    "hard_output_tokens": 387,
+    "hard_nominal_price": 0.03582
+  },
+  {
+    "name": "GPT-5.5 Minimal (S)",
+    "company": "OpenAI",
+    "accuracy": 0.6919191919191919,
+    "stderr": 0.04586497857233137,
+    "total_hints_used": 15,
+    "input_tokens": 38611,
+    "output_tokens": 66351,
+    "nominal_price": 2.183585,
+    "input_rate": 5,
+    "output_rate": 30,
+    "openrouter_slug": "openai/gpt-5.5",
+    "hard_accuracy": 0.016666666666666666,
+    "hard_stderr": 0.016666666666666666,
+    "hard_total_hints_used": 24,
+    "hard_input_tokens": 38245,
+    "hard_output_tokens": 27157,
+    "hard_nominal_price": 1.005935
   }
 ]
